@@ -190,20 +190,6 @@ the evidence-grounding check compare each output with the fluent transcript.
   stereotype labels on 140 outputs) and their agreement statistics are reported in the paper. Their label
   files are not yet part of this repository.
 
-## Notes on the method
-
-* **Operators.** In C1 the original transcript is rendered with repetitions as `s-s-set`, prolongations as
-  `ssso` and blocks as `p... project`. C2 removes the stuttering-like events. C5 replaces each event with
-  one filler (alternating *um* / *uh*). C3 and C4 add "Before we start, I should mention that I stutter."
-  C6 adds "...that I'm left-handed."
-* **Disfluency rate.** `pss` is the percentage of syllables disfluent (%SD), counted with CMU dictionary
-  syllables. For stuttering-like events it equals clinical %SS.
-* **Inference.** Contrasts are paired within excerpt (or answer), role and model. Intervals come from a
-  cluster bootstrap over speakers (Experiment 1) or answers (Experiment 2): percentile intervals,
-  B = 5000. Holm correction is applied over the three primary traits, McNemar tests are used for binary
-  measures, and TOST uses δ = 0.3 with 90% intervals.
-* **Dose model (Eq. 2).** A mixed model with model fixed effects and item random intercepts, fitted with
-  statsmodels `MixedLM`.
 
 ## Citation
 
