@@ -1,0 +1,691 @@
+experiment,speaker,excerpt,role,condition,question,question_id,question_fit,pss,topic_stutter,n_sld,n_td,n_words,readability,text_sha256
+1,24fb,24fb#n006,analyst,C1,Tell me a little about yourself.,,,2.44,True,2,14,91,73.78,4f0d9c2ede1bbba96597a550fd8fdc03ef3a274f84aacde5b7c3f2441ed750c0
+1,24fb,24fb#n006,analyst,C2,Tell me a little about yourself.,,,2.44,True,2,14,68,81.81,1a3bf6833bb6cbbc44dced0d4894836155ca749c53a3b0bd2ebe0b85385dd92d
+1,24fb,24fb#n006,analyst,C3,Tell me a little about yourself.,,,2.44,True,2,14,100,78.25,565f75469f1c4ff0cbdde883f7c81b309c83e4f9467433c10c714b201478c799
+1,24fb,24fb#n006,analyst,C4,Tell me a little about yourself.,,,2.44,True,2,14,77,84.02,fc5b50d4ffc936e404d0618f9ace17c7a8b9145599c5ea941db193860efe70a2
+1,24fb,24fb#n006,analyst,C5,Tell me a little about yourself.,,,2.44,True,2,14,91,74.71,5aa6f4c4fe11a4a504171fb1828590f751168ed79e007fe14fed504adc75f5c6
+1,24fb,24fb#n006,analyst,C6,Tell me a little about yourself.,,,2.44,True,2,14,101,78.18,55284c0ffeecf4879e8eeb04298b64b74f060f7bafa9192c0a7e9456679bf107
+1,24fb,24fb#n012,client,C1,Tell me a little about yourself.,,,3.08,True,2,12,79,88.27,3d79994725be8b3b71b6f84b6cab58cd12634e9315709410d0dd5e1f2fe88f2d
+1,24fb,24fb#n012,client,C2,Tell me a little about yourself.,,,3.08,True,2,12,54,91.3,64b47a025981b63219a2b1b17a398ece4e7618a3e0004cd6e4cf6724f0c1a4dc
+1,24fb,24fb#n012,client,C3,Tell me a little about yourself.,,,3.08,True,2,12,88,88.99,1889e32e3e5892de713ca543b2b885340ed14d17ada6a4744f4e4c1374b99258
+1,24fb,24fb#n012,client,C4,Tell me a little about yourself.,,,3.08,True,2,12,63,90.65,456008e9123fd3fcabca6cc9f9c043715b3f332f5083bb7924f5ea2f394d48eb
+1,24fb,24fb#n012,client,C5,Tell me a little about yourself.,,,3.08,True,2,12,79,88.27,93a16b3a7321a7ea0e861ffae0648644e768ae9e6d9403e2ee147c3031a3ae65
+1,24fb,24fb#n012,client,C6,Tell me a little about yourself.,,,3.08,True,2,12,89,88.96,abc1137d987a7a85ea2404acfc63d3fcbc91fb845e403ec6eda999b3145f466d
+1,24fb,24fb#n030,analyst,C1,Tell me a little about yourself.,,,1.56,True,1,10,73,87.49,d3eadd82d9993c0c2b43f648e712025f98e95b3a171effa851034201f4b565bb
+1,24fb,24fb#n030,analyst,C2,Tell me a little about yourself.,,,1.56,True,1,10,53,91.23,71b7553d2f30a988e188f98477a66e3bc3b9ff485cd11cf267e01cd60e21f702
+1,24fb,24fb#n030,analyst,C3,Tell me a little about yourself.,,,1.56,True,1,10,82,88.05,2700b1f07a83c796002d0e52eb75f8030dd5f5faddb0a813dfa632e18c35ce63
+1,24fb,24fb#n030,analyst,C4,Tell me a little about yourself.,,,1.56,True,1,10,62,90.55,f4e5d164a4ecc1baff07f464cbd424b9204fe17cb207c305bba04e2f8e19ce1b
+1,24fb,24fb#n030,analyst,C5,Tell me a little about yourself.,,,1.56,True,1,10,73,87.49,53cebc306a090c2917e6ee6b553397f1c3f9b489ce34902c047e230bedb39336
+1,24fb,24fb#n030,analyst,C6,Tell me a little about yourself.,,,1.56,True,1,10,83,88.06,f6550770de97c18266377f6597c5e2033f1feddbe455c19c2f5162e501f958de
+1,24fb,24fb#n040,client,C1,Tell me a little about yourself.,,,1.75,True,1,6,53,91.23,56e728cd7b044385935e67107abd7d94810f1350ec041fdfcdfeed618ccfc4fe
+1,24fb,24fb#n040,client,C2,Tell me a little about yourself.,,,1.75,True,1,6,46,90.33,054f5a9fd24b26a2cb4c9a77d1ee59f9cb825faa9ddb6d6d07ba25e07f5ca75d
+1,24fb,24fb#n040,client,C3,Tell me a little about yourself.,,,1.75,True,1,6,62,90.55,f9ab4bb04479d30640f7ac012daf7fa1d1631ba241176747b87110f1a4387db0
+1,24fb,24fb#n040,client,C4,Tell me a little about yourself.,,,1.75,True,1,6,55,89.54,f17cd77a594b4d8cf02fab4e26977d14190940f087e3ad296449016804f31bdd
+1,24fb,24fb#n040,client,C5,Tell me a little about yourself.,,,1.75,True,1,6,53,91.23,03c269cf8b24715bd4763a187ebd803a6a8bdad2a670458fdd7f1d3d733c162e
+1,24fb,24fb#n040,client,C6,Tell me a little about yourself.,,,1.75,True,1,6,63,90.65,82de7beda67c401e261cfa77e8821676bec1a731767a9a1a12a78fc8535b5302
+1,24fc,24fc#n000,analyst,C1,Tell me a little about yourself.,,,6.08,True,11,22,203,100.29,d92d5a58a4638dbe24627c86ce2a9542edccc0a50f19ebe2974a5eb5cf5c8169
+1,24fc,24fc#n000,analyst,C2,Tell me a little about yourself.,,,6.08,True,11,22,150,98.66,dcd9e0e8232661683a9fc7a17daab3142c15a2688531743b418fd5d620e3f7f0
+1,24fc,24fc#n000,analyst,C3,Tell me a little about yourself.,,,6.08,True,11,22,212,99.65,c5f270bb7d0dfbcd2ead1cd090572d60551088ff44841851e91666630b252353
+1,24fc,24fc#n000,analyst,C4,Tell me a little about yourself.,,,6.08,True,11,22,159,97.94,7e964e9d3799c5e4f89095da0b2e432fc04eef9699b5379e5ad951c84795ae50
+1,24fc,24fc#n000,analyst,C5,Tell me a little about yourself.,,,6.08,True,11,22,201,99.76,f94d51509b1081e60726355bc976a76ed2ac95747d638c6e64d140cb698c91b7
+1,24fc,24fc#n000,analyst,C6,Tell me a little about yourself.,,,6.08,True,11,22,213,99.69,62ba705925e591db00348dfff79b784d00a7281b5d467440eb21120c3c212fb6
+1,24fc,24fc#n035,client,C1,Tell me a little about yourself.,,,2.33,True,2,2,78,102.05,d55f6ccb42b92914164b1c95c7d26ab2d3d4b713666666277c79d622dba7af0b
+1,24fc,24fc#n035,client,C2,Tell me a little about yourself.,,,2.33,True,2,2,74,102.74,e1d823fab5c4c6b2213887cf2adeda1dc0097f4e0062cbacd2e405a8ae1586a1
+1,24fc,24fc#n035,client,C3,Tell me a little about yourself.,,,2.33,True,2,2,87,100.37,4b23add34c62c7cf0e9d33e90a806e6959d8f1e8e14f6d91eb501169f9001667
+1,24fc,24fc#n035,client,C4,Tell me a little about yourself.,,,2.33,True,2,2,83,100.93,b7430ec11280e3976bc018484c3c0154964ad9217159f8ee135aa43948d2c9f4
+1,24fc,24fc#n035,client,C5,Tell me a little about yourself.,,,2.33,True,2,2,78,103.13,308c00594f04fcb692dad4d0fe0547872524c819b788f23ce53de09d04113e2a
+1,24fc,24fc#n035,client,C6,Tell me a little about yourself.,,,2.33,True,2,2,88,100.47,2c59fe2c10fabd39ee9789a898a163e05e61c6013d32d62d879ff2e39c5bcf17
+1,24fc,24fc#n068,analyst,C1,Tell me a little about yourself.,,,2.78,True,5,15,185,99.57,e7babc48f4a3748663dd89a6cf829db1295d9db620192188d451108504ceb8e3
+1,24fc,24fc#n068,analyst,C2,Tell me a little about yourself.,,,2.78,True,5,15,150,98.07,50b3f5deba97895ec257e4007ded1869b5936f0c66d1c47e526d91a990291b1e
+1,24fc,24fc#n068,analyst,C3,Tell me a little about yourself.,,,2.78,True,5,15,194,98.89,61f6e7b9ef6a579bcfbf40f659e826b8e6bad01204555cbdf9f338f93d1cd527
+1,24fc,24fc#n068,analyst,C4,Tell me a little about yourself.,,,2.78,True,5,15,159,97.34,6943806306ae40ee0f672bb2ec9026c17cf3d0e866feb6ee252a8cfcabedb62d
+1,24fc,24fc#n068,analyst,C5,Tell me a little about yourself.,,,2.78,True,5,15,180,99.44,be197a39a2463e6efe8aad872af21a11dbee42ffacdcf4f0f981ba3ac9b0ba65
+1,24fc,24fc#n068,analyst,C6,Tell me a little about yourself.,,,2.78,True,5,15,195,98.92,2accbf04cf9137ce693764a52ec235043f8214f8beaa4d54154a12d2de92f2f0
+1,24fc,24fc#n099,client,C1,Tell me a little about yourself.,,,5.61,True,6,6,101,90.9,960b23e5c81d92bc46e96c230fecc366ac08a2775cffc0d10fe24fd69acc4e77
+1,24fc,24fc#n099,client,C2,Tell me a little about yourself.,,,5.61,True,6,6,84,92.51,2f93523252d725c11fc6933e1380cc853c973d810cfc04722668bdcd2a8bd521
+1,24fc,24fc#n099,client,C3,Tell me a little about yourself.,,,5.61,True,6,6,110,90.42,3629c792786446b9847833a1e2445c20e5e175fa23d2c3db4e2b9b886b56b61f
+1,24fc,24fc#n099,client,C4,Tell me a little about yourself.,,,5.61,True,6,6,93,91.84,5be041f1dfc02e2925600c6a281ee30c800771f50e9635d828a1e867130b97a6
+1,24fc,24fc#n099,client,C5,Tell me a little about yourself.,,,5.61,True,6,6,99,92.29,8868762955a49cecd59667896fbf2ab894fe261a56d3d2463d94a95b97b3abf5
+1,24fc,24fc#n099,client,C6,Tell me a little about yourself.,,,5.61,True,6,6,111,90.56,1c23e427755e3d44c52948fcdf036247e6a0252b712df0906bea8454c887e21d
+1,24mb,24mb#n062,analyst,C1,Tell me a little about yourself.,,,1.16,True,1,3,59,72.34,c0a33c21b9288fdb37cfc31fc2547db2e13731a4b10919f73a3dd6012a988dca
+1,24mb,24mb#n062,analyst,C2,Tell me a little about yourself.,,,1.16,True,1,3,55,69.48,8c9058967551643cebb886f7d3921d1288970fe42a019a03579d1b98f5788db8
+1,24mb,24mb#n062,analyst,C3,Tell me a little about yourself.,,,1.16,True,1,3,68,74.18,ba16cd71cea00496be52815d7eacb2f52f82737d4f13acf0146cecf9fe5b9838
+1,24mb,24mb#n062,analyst,C4,Tell me a little about yourself.,,,1.16,True,1,3,64,71.88,62654ff8c2264610d019c4a81a856e940c523066654ecafd6c50bb11b241c8c3
+1,24mb,24mb#n062,analyst,C5,Tell me a little about yourself.,,,1.16,True,1,3,59,72.34,b089ab32a6fcca83cdb4fc8288edc8bac391134cc9eb680ee1587c45e264dd27
+1,24mb,24mb#n062,analyst,C6,Tell me a little about yourself.,,,1.16,True,1,3,69,74.71,6ed8ab600b1f92da88d476ae0f3d8c225581f18a7e021fe7841719ef5ca77c51
+1,24mb,24mb#n074,client,C1,Tell me a little about yourself.,,,2.59,True,3,5,105,90.6,4fec935422e86c72045b8f0338a9d582ff44c8a8c5222d13b4cd7c4164aa8893
+1,24mb,24mb#n074,client,C2,Tell me a little about yourself.,,,2.59,True,3,5,87,88.52,2f5aee15ad7cb61cdd962f9a5150ac64c51fcd777bd4e0b61d5ad19b78b253f8
+1,24mb,24mb#n074,client,C3,Tell me a little about yourself.,,,2.59,True,3,5,114,90.2,92bc4955135e304b4b9bf5a005b39f9218b729dfb16b204b94db16b6c3c236ef
+1,24mb,24mb#n074,client,C4,Tell me a little about yourself.,,,2.59,True,3,5,96,88.3,7a41fc8e1b059243c4befa49096edfbb2537cf437b3a173c9ac79479b636a6af
+1,24mb,24mb#n074,client,C5,Tell me a little about yourself.,,,2.59,True,3,5,105,90.6,3b99df0723c42049013019ab1c1bac150f99f3a1d56ea46a57181242ab6b6819
+1,24mb,24mb#n074,client,C6,Tell me a little about yourself.,,,2.59,True,3,5,115,90.36,d71811c4fd1ce8f88c96aca056bda733f0fe31a218e22d77389369a8ca1368d0
+1,24mb,24mb#n131,analyst,C1,Tell me a little about yourself.,,,0.99,True,1,4,86,90.93,35a814e6ea7fa7f5623e771302010ccb7ca2187a6b1a1ee4e5a073744d4ae768
+1,24mb,24mb#n131,analyst,C2,Tell me a little about yourself.,,,0.99,True,1,4,78,91.2,8a4f81b97c9af3083078724d50b1d4a9bf86520a77c7e20bb64eb1683024c0fc
+1,24mb,24mb#n131,analyst,C3,Tell me a little about yourself.,,,0.99,True,1,4,95,90.41,239153dd4d0f76989df9a8deb3d52ff46a2a2c093cb2dcf3663a594ecc43c174
+1,24mb,24mb#n131,analyst,C4,Tell me a little about yourself.,,,0.99,True,1,4,87,90.64,16a78fc8b96d85259f3d000a3ba9089f0e679146b96f30b0a763b729bbe1f03c
+1,24mb,24mb#n131,analyst,C5,Tell me a little about yourself.,,,0.99,True,1,4,85,90.72,da09d24e63ae587cdb8000e0a47f256a8e052b9a79a5381ad2be9d12eca623b1
+1,24mb,24mb#n131,analyst,C6,Tell me a little about yourself.,,,0.99,True,1,4,96,90.6,b77a57147db0ac563868f4a95bc8c81530854f9244786a7cfacbf6e7fb2f27a0
+1,25m,25m#n000,client,C1,Tell me a little about yourself.,ABOUT,good,23.33,False,13,7,71,76.81,cddcc5be8b64ed4ef1dd2e03f43ca4fbb6f5d0031b4caf659608c049ad4fb57a
+1,25m,25m#n000,client,C2,Tell me a little about yourself.,ABOUT,good,23.33,False,13,7,42,75.32,cf2aab3b3921e2fafbd49191914a9efa83ef68ef2e91abe1a6b0aa537bb5b864
+1,25m,25m#n000,client,C3,Tell me a little about yourself.,ABOUT,good,23.33,False,13,7,80,78.5,67bcc0d8fb4cff253f7c1b6f6d57e6e474ac02b21f1b7f7f8b836476e942aad4
+1,25m,25m#n000,client,C4,Tell me a little about yourself.,ABOUT,good,23.33,False,13,7,51,77.05,88e82b3e7ca539cc4409537fa775ef1d24e9454d64c28a61ebe46d4963034c66
+1,25m,25m#n000,client,C5,Tell me a little about yourself.,ABOUT,good,23.33,False,13,7,63,82.08,45d2337a959fb940180ba1b5615070f6acf654044fe69b10da2608f905bb40c9
+1,25m,25m#n000,client,C6,Tell me a little about yourself.,ABOUT,good,23.33,False,13,7,81,78.64,fce409c65aa1a6ccb0914a69900fcf22519dc9fbcc4a5062e7bcc88010694f48
+1,25m,25m#n005,analyst,C1,What do you enjoy doing outside of work?,OUTSIDE,partial,24.05,False,18,5,93,80.12,ced7be512f30266bab17710e1e2e40652f35746dd66f348549e61a0c25e59a9a
+1,25m,25m#n005,analyst,C2,What do you enjoy doing outside of work?,OUTSIDE,partial,24.05,False,18,5,59,83.58,009c6ca438dc4fc4a59734e0a6ed62a815bfd902b68152599fa93152829927c5
+1,25m,25m#n005,analyst,C3,What do you enjoy doing outside of work?,OUTSIDE,partial,24.05,False,18,5,102,80.9,fde4f2f591d0d807c09e267fca9b309393f04eb5c6241a811076dfbd37f44180
+1,25m,25m#n005,analyst,C4,What do you enjoy doing outside of work?,OUTSIDE,partial,24.05,False,18,5,68,83.76,1f6d2a1e1a4f3ac5fe3341cdf785fa1d07847d0d1f1ffffbcf3d736e20e57967
+1,25m,25m#n005,analyst,C5,What do you enjoy doing outside of work?,OUTSIDE,partial,24.05,False,18,5,83,86.79,61f6847c15ae041d5eeca3f94d6cdbcf359e8390aebd76814e8a4e3378cef4b3
+1,25m,25m#n005,analyst,C6,What do you enjoy doing outside of work?,OUTSIDE,partial,24.05,False,18,5,103,81.02,f439e0c94895c9eeda6f62aca86770f730352340ab013fdd99e52be10d977589
+1,25m,25m#n065,analyst,C1,Tell me about a time you presented or spoke in front of others.,PRESENT,partial,25.4,False,16,4,81,95.54,68369650881cb8c2a2cf19cd727c8c99d8443c0683018097e277619bc7533076
+1,25m,25m#n065,analyst,C2,Tell me about a time you presented or spoke in front of others.,PRESENT,partial,25.4,False,16,4,50,94.6,316c534fc827e73d5defd8f225be439370a1be3c3e5897b92fd30c6f1bcde5b8
+1,25m,25m#n065,analyst,C3,Tell me about a time you presented or spoke in front of others.,PRESENT,partial,25.4,False,16,4,90,94.53,a645f9b467c5db6659885637a90ec2171fff887e613ba6ddfd5fb283c172e3ac
+1,25m,25m#n065,analyst,C4,Tell me about a time you presented or spoke in front of others.,PRESENT,partial,25.4,False,16,4,59,93.3,32f64ed5eefd676ed0b32a18d664b06272bee62fde7c0dabe04ced5438ba2087
+1,25m,25m#n065,analyst,C5,Tell me about a time you presented or spoke in front of others.,PRESENT,partial,25.4,False,16,4,73,97.78,0c9f121eef71e2d377115251de50292212ad603214ed214b2cac96335c06e103
+1,25m,25m#n065,analyst,C6,Tell me about a time you presented or spoke in front of others.,PRESENT,partial,25.4,False,16,4,91,94.68,58947cc90634db530039249ad5a24da20ae5f29eaa40da39bcca6cc9988ce4c0
+1,26f,26f#n011,client,C1,Tell me a little about yourself.,,,2.86,True,2,1,52,74.26,d411eec7aafe111ca8f70aa94751efc6fe262b0bbc8f368349410f235a5fd6ae
+1,26f,26f#n011,client,C2,Tell me a little about yourself.,,,2.86,True,2,1,47,56.98,dad94ee324f9b7c208db05a0c98862327c5d5bb578ea215e58a6fa83ed76ec8c
+1,26f,26f#n011,client,C3,Tell me a little about yourself.,,,2.86,True,2,1,61,75.86,12a6c828f3abe68dd00af29a4cfa64862cf3c119e587b97dcf1b8a1ee2ddaf03
+1,26f,26f#n011,client,C4,Tell me a little about yourself.,,,2.86,True,2,1,56,64.01,263668a47825e11da2f748e5f84e68ee38580ac9882fc6fb9d710a3dec2f4b95
+1,26f,26f#n011,client,C5,Tell me a little about yourself.,,,2.86,True,2,1,53,58.62,3dfa26418c78893bea195cb6ba93e4008b0794ccab4a4b8b74f6a42b6e976804
+1,26f,26f#n011,client,C6,Tell me a little about yourself.,,,2.86,True,2,1,62,76.27,8a5bc677b01871fb5a79265d3da59f49a446296f6fd9794e9fba23a946f9761b
+1,26f,26f#n035,analyst,C1,Tell me a little about yourself.,,,1.28,True,1,2,53,58.01,57113e1d04695bc43c7d29e76bb541e2f8eb08b8f494ab57c38fabd55346cfde
+1,26f,26f#n035,analyst,C2,Tell me a little about yourself.,,,1.28,True,1,2,49,55.59,e0d87c3a06fb361874b11fc90fe6a5e18f8881bc69fc9b4b62f200a5099eec0c
+1,26f,26f#n035,analyst,C3,Tell me a little about yourself.,,,1.28,True,1,2,62,62.84,1ea05729442764b6f95b4ef735b4a99a74ff4790e550b02e9ffac709059b8d21
+1,26f,26f#n035,analyst,C4,Tell me a little about yourself.,,,1.28,True,1,2,58,60.84,9e5dd7318dd81218529651c9496e32815b6059509cc5ce87327db462cae669d9
+1,26f,26f#n035,analyst,C5,Tell me a little about yourself.,,,1.28,True,1,2,53,58.01,a1efb75f701681f1e63d1da34f4355dff00444cd279659f1e03b2ea58a661e7b
+1,26f,26f#n035,analyst,C6,Tell me a little about yourself.,,,1.28,True,1,2,63,63.28,5195acf0eac0791db4a3e1e2ac44c70e16c03b691f1e92fdf64c419f04ba3077
+1,26m,26m#n019,client,C1,Tell me a little about yourself.,,,0.98,True,1,2,73,46.94,088cdb48aa4e8b07007356c9a17cf0a2b58914b2115f92e9b9753a2e10780dd2
+1,26m,26m#n019,client,C2,Tell me a little about yourself.,,,0.98,True,1,2,69,46.76,158f25a36322d303db02f0c5f7d130d371c7079846d258b71035480d7426d7ac
+1,26m,26m#n019,client,C3,Tell me a little about yourself.,,,0.98,True,1,2,82,57.35,66386881637527fe94ab6d75a6d168fefffa0913694c80641a29b1e670fa816f
+1,26m,26m#n019,client,C4,Tell me a little about yourself.,,,0.98,True,1,2,78,56.8,00e51d9064a94f413e7c4c683e4454dfdff516c9cf23fd826072b6ea2f152a78
+1,26m,26m#n019,client,C5,Tell me a little about yourself.,,,0.98,True,1,2,72,46.92,11a8b532897c2a8409ca10e5127e9ec2cbf346cd3241459c8539b957ddef0568
+1,26m,26m#n019,client,C6,Tell me a little about yourself.,,,0.98,True,1,2,83,57.46,2b5ae7a529dbaa2a57934aea87453f65490b4d0835bc0e98d6e1634b4a7e7aa7
+1,27ma,27ma#n023,analyst,C1,Tell me a little about yourself.,,,15.65,True,23,6,141,83.88,024ea64536910b8fc118c894ac53955c769bdcd39901c50a9047838eb33d0c50
+1,27ma,27ma#n023,analyst,C2,Tell me a little about yourself.,,,15.65,True,23,6,109,37.42,eb4809cd3fd5177646268a0594f31e797b399e437499f5e902cb79913e4264cc
+1,27ma,27ma#n023,analyst,C3,Tell me a little about yourself.,,,15.65,True,23,6,150,83.97,4c55ee95ba4158b5f7399ee1464fdb914cda9dc97f7da7504c224d7b968c439e
+1,27ma,27ma#n023,analyst,C4,Tell me a little about yourself.,,,15.65,True,23,6,118,52.92,78978f8bd409c01b377a9598867404cce5b3eadf0398323ab8d600e1862a3471
+1,27ma,27ma#n023,analyst,C5,Tell me a little about yourself.,,,15.65,True,23,6,143,26.0,e6b3ccf9988ef603889795012024b16204a3e90eb4e8d3580088054570e8b460
+1,27ma,27ma#n023,analyst,C6,Tell me a little about yourself.,,,15.65,True,23,6,151,84.12,01060793a3458c6e9d1a266abe12a58404690331ea187a44669943a4f3629fbd
+1,27ma,27ma#n027,client,C1,Tell me a little about yourself.,,,12.9,True,12,4,89,76.84,f4a9ad3a0a9cda887daf97705d06d228aa91d8b57b42c257160f8689df67176a
+1,27ma,27ma#n027,client,C2,Tell me a little about yourself.,,,12.9,True,12,4,69,75.3,9298fa640865a803347f62689e0d926cc6c7414894c06df5864be80afbd56e79
+1,27ma,27ma#n027,client,C3,Tell me a little about yourself.,,,12.9,True,12,4,98,79.03,45c65a4983bee592e467704d9cbdb5fb2222f3332309b0718c4300eb0b4a97a0
+1,27ma,27ma#n027,client,C4,Tell me a little about yourself.,,,12.9,True,12,4,78,77.12,e78e9ccb53f45c7221823ff39715b66d0c362f2ffa733be85ee3812411e78379
+1,27ma,27ma#n027,client,C5,Tell me a little about yourself.,,,12.9,True,12,4,88,76.83,eed532605ed32adfd3592c497b922b15b354a710b7fbfc33d621741b830fb7f5
+1,27ma,27ma#n027,client,C6,Tell me a little about yourself.,,,12.9,True,12,4,99,79.07,2d364207f19378c71b0902b68daa12576d7912f4b8ae6e7a691d2ac2cc7bcf36
+1,27ma,27ma#n034,analyst,C1,Tell me a little about yourself.,,,15.97,True,19,5,127,77.48,558c27d435629280adca91474d9e0ca1ae30cffe8fa011bb8e0ae06b751df1a7
+1,27ma,27ma#n034,analyst,C2,Tell me a little about yourself.,,,15.97,True,19,5,86,67.95,f716139ead7b76db6268956fdc154834647f9015807222a5c913fdbc12365c78
+1,27ma,27ma#n034,analyst,C3,Tell me a little about yourself.,,,15.97,True,19,5,136,78.01,adabaa27cda7ae9c89f986429fd10fc04ccef2b2e232356c76423e3002f5f7ee
+1,27ma,27ma#n034,analyst,C4,Tell me a little about yourself.,,,15.97,True,19,5,95,70.89,82089e99daa6d3465e08c4be7594acde65506c1d92e2623c95f901d3c903f3cf
+1,27ma,27ma#n034,analyst,C5,Tell me a little about yourself.,,,15.97,True,19,5,118,67.92,2f71fc600936045f811d282c975d973527c73362f47219cb6743055bbbdfe130
+1,27ma,27ma#n034,analyst,C6,Tell me a little about yourself.,,,15.97,True,19,5,137,78.23,99065b90a00b4f72963215361debb7b0622b5bebfa97e80ccb56a2a4ff3bb4b1
+1,27ma,27ma#n039,client,C1,Tell me a little about yourself.,,,25.38,True,50,8,206,87.18,98d14d74314d9d424a92a2bfad536d7ea7454980f6bc67b97618d956f33c6748
+1,27ma,27ma#n039,client,C2,Tell me a little about yourself.,,,25.38,True,50,8,139,66.78,b7b60a6db60939613abcc80afd83cd7c4511676981c988b64e80e77f28f1d084
+1,27ma,27ma#n039,client,C3,Tell me a little about yourself.,,,25.38,True,50,8,215,87.24,52d98d4ab3764c722c8999a2dacb0cebe37005afdbf86eebaece2833380508b7
+1,27ma,27ma#n039,client,C4,Tell me a little about yourself.,,,25.38,True,50,8,148,68.59,e8d73670c240426a9b3bc2944a541149185ef46cb232f0b79d627eb1f0438c50
+1,27ma,27ma#n039,client,C5,Tell me a little about yourself.,,,25.38,True,50,8,202,66.98,2adb21f493090152250dbfc6204ad5d05822fcb86b97d1cd8fd1a1290e780601
+1,27ma,27ma#n039,client,C6,Tell me a little about yourself.,,,25.38,True,50,8,216,87.37,7c26fc8bbf9f0175121111bea5f9c5381de765465dd3887827dcab584d9d052e
+1,27ma,27ma#n050,analyst,C1,Tell me a little about yourself.,,,12.59,True,18,3,130,93.46,916bc91c2dc2a80eac7f36a4b4b72423e19dbbea60b680a1810c293fc52e3cb1
+1,27ma,27ma#n050,analyst,C2,Tell me a little about yourself.,,,12.59,True,18,3,109,68.19,9d71f9936a2a339b80a8fcfce6290abb6890e2485f404af92135f2440fb6de18
+1,27ma,27ma#n050,analyst,C3,Tell me a little about yourself.,,,12.59,True,18,3,139,92.97,da25118c18728945ddc909da413a2f4fb20ac4a29996503e3a8d16e086d9c502
+1,27ma,27ma#n050,analyst,C4,Tell me a little about yourself.,,,12.59,True,18,3,118,71.75,594f1f6f8cad6ec11dd4db130450105667684f5ad316364385b305a81f0f6889
+1,27ma,27ma#n050,analyst,C5,Tell me a little about yourself.,,,12.59,True,18,3,132,66.95,40fd545153d03acb2fe052098113c2f74677d9d60ef187eb4671f5011598b1d5
+1,27ma,27ma#n050,analyst,C6,Tell me a little about yourself.,,,12.59,True,18,3,140,93.09,2a87fb940e0acb306efcf78b6295f00aa76d6e6adde3fa4e297f6d696b4f560a
+1,28m,28m#00,client,C1,What does good communication mean to you? Can you give an example?,COMM,good,1.94,False,2,4,79,63.64,a1044ca2bd22c95d32c5c5e68d19be4d0f30d404265e4eeda3b19d5194478aca
+1,28m,28m#00,client,C2,What does good communication mean to you? Can you give an example?,COMM,good,1.94,False,2,4,68,61.44,1d96ee177c6687634216bd1444197e3c6c0acdb0b40938248ae6fcf8c6d4530d
+1,28m,28m#00,client,C3,What does good communication mean to you? Can you give an example?,COMM,good,1.94,False,2,4,88,66.88,dcc6cd41e6ac4c32e3dbb8886062555285e2904d21fbcace6f0d966ca65cb514
+1,28m,28m#00,client,C4,What does good communication mean to you? Can you give an example?,COMM,good,1.94,False,2,4,77,64.85,fdf2b78ff838248d0587f0da78241a37d806fc479cd8e0986807916c258c3a1c
+1,28m,28m#00,client,C5,What does good communication mean to you? Can you give an example?,COMM,good,1.94,False,2,4,79,64.71,640cfc784eeef83782071e17e591bc71e0b41c13c7f953572a3cd16ab385dd24
+1,28m,28m#00,client,C6,What does good communication mean to you? Can you give an example?,COMM,good,1.94,False,2,4,89,67.1,af51c8947022abc2df0d7cc2261135f67d641a8e2631b1bef87350d5ac530b93
+1,28m,28m#01,analyst,C1,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,1.19,False,1,17,95,80.32,880f66da29aa296e79b7161faa2ad39cf78162af2369871026924aecdc065e60
+1,28m,28m#01,analyst,C2,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,1.19,False,1,17,64,79.56,a57e2fa0303a072ea55bead652d97649c7ecd819bf84f7771fb2d96d5aca06dd
+1,28m,28m#01,analyst,C3,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,1.19,False,1,17,104,82.41,aff9fe3ad47da13eddfa65a0c6da4c89a570b9dc0eb4f10e2b2ea587f8584d99
+1,28m,28m#01,analyst,C4,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,1.19,False,1,17,73,80.76,a5526f351bcec4db4447d92c2031de5e8d3d718179b8f3e98ed6f18d1fdb6d95
+1,28m,28m#01,analyst,C5,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,1.19,False,1,17,94,80.38,4066234e81254349a1d8f490204d90b8788942fcc2eff94e2935fa9a6e2e04c3
+1,28m,28m#01,analyst,C6,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,1.19,False,1,17,105,82.39,2cc46dd7cdf2bc3e807cc894219f68b5cf9c013ba8bb9445b822138a119d6f6a
+1,28m,28m#n054,client,C1,Tell me a little about yourself.,,,1.75,True,1,4,51,66.49,4364968b8a25b59f2dc141ebfb8a78f1509da6b8d50770ed6929f8ffacf55e53
+1,28m,28m#n054,client,C2,Tell me a little about yourself.,,,1.75,True,1,4,43,72.87,5d0f70e0cf9558331473ac0ac4d1ecbe345f595fb90eac83da6fb32bf2e803e4
+1,28m,28m#n054,client,C3,Tell me a little about yourself.,,,1.75,True,1,4,60,72.33,7439a6d9cfbb436e1796dfeb00c3469e18448f93cd2589adbff765c0ebb0a0ff
+1,28m,28m#n054,client,C4,Tell me a little about yourself.,,,1.75,True,1,4,52,76.98,118f89c3279c594ff415856c8b073b139449057ab4e0a33d02319e311ca45854
+1,28m,28m#n054,client,C5,Tell me a little about yourself.,,,1.75,True,1,4,51,69.81,d0b85c162a3799aa6a723bf1516e4e1513f4ada2f9e122835e2c24fc083e6675
+1,28m,28m#n054,client,C6,Tell me a little about yourself.,,,1.75,True,1,4,61,72.47,10c8a0a77fb2bedafdc26f6e4cee63d16b62c3443f4fccc99f620387ac8f896d
+1,29ma,29ma#n050,analyst,C1,Tell me a little about yourself.,ABOUT,partial,3.64,False,2,0,47,98.27,afb76b488123de5d2e90277c0f93d534b9d39e003b2ef516ff513fbb2580474d
+1,29ma,29ma#n050,analyst,C2,Tell me a little about yourself.,ABOUT,partial,3.64,False,2,0,45,80.6,c4e800b204577dd70ed732bf4dd326e6b27e8bf8988d42586aef82db88ac7d7b
+1,29ma,29ma#n050,analyst,C3,Tell me a little about yourself.,ABOUT,partial,3.64,False,2,0,56,96.28,1d0a3f7988b95c8848086597d6f94d0104384a13970057da399fabc17dde0d3a
+1,29ma,29ma#n050,analyst,C4,Tell me a little about yourself.,ABOUT,partial,3.64,False,2,0,54,83.6,ad22bcd84aaa9f06505c113d9ace3d66c02f575b6bc892af3f2b115ee437301d
+1,29ma,29ma#n050,analyst,C5,Tell me a little about yourself.,ABOUT,partial,3.64,False,2,0,47,80.38,bbb7186f7bed6a914f4f21510bfceb7107301018db49c5de27986bbb7aaa43f0
+1,29ma,29ma#n050,analyst,C6,Tell me a little about yourself.,ABOUT,partial,3.64,False,2,0,57,96.51,59734e575a7333db94a8e68c9f627c7a11c7eac22a2a9d3a2cb3c71a74a5d399
+1,29ma,29ma#n081,client,C1,What does good communication mean to you? Can you give an example?,COMM,good,1.12,False,1,1,67,73.67,9f171cdc4571946463388beb22e8d01fd29fbe942132e3d21e777a76fa300b7f
+1,29ma,29ma#n081,client,C2,What does good communication mean to you? Can you give an example?,COMM,good,1.12,False,1,1,64,72.95,72b062127664c10e394e6d9d605faaac450b93b1be048f7f07e4adc200cf39de
+1,29ma,29ma#n081,client,C3,What does good communication mean to you? Can you give an example?,COMM,good,1.12,False,1,1,76,75.64,0a9d510ed6f8502a840b815f5d55130265251a827125b82c26a5bb4a8264bd1a
+1,29ma,29ma#n081,client,C4,What does good communication mean to you? Can you give an example?,COMM,good,1.12,False,1,1,73,74.97,bf1d6a54710f3172a2d1f07e0e98bbc355a51734c0b63a44f5747c0efafbed7f
+1,29ma,29ma#n081,client,C5,What does good communication mean to you? Can you give an example?,COMM,good,1.12,False,1,1,66,73.44,0e95e44aee799479369451102aa5334823d15dc7a629f23c5bb63c99fd84f285
+1,29ma,29ma#n081,client,C6,What does good communication mean to you? Can you give an example?,COMM,good,1.12,False,1,1,77,75.84,a1268df41dde74fd1561d126a9d818621aff014b659ced687690edeaa0d98e47
+1,29mb,29mb#n007,analyst,C1,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,11.76,False,8,10,84,81.84,3148f96d852d1ee685e08606f7e64eb9e4de0b5782e034e899fdd03f734166f9
+1,29mb,29mb#n007,analyst,C2,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,11.76,False,8,10,52,87.41,4177e73d563f054db3b0251bbae7ba406647c82c8fad3a3f75ecf3a27424a20f
+1,29mb,29mb#n007,analyst,C3,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,11.76,False,8,10,93,82.37,aa9981b7da7541453c689f9ffe5a2fdff3b49bcbdd19ec7c6990a4f87552343f
+1,29mb,29mb#n007,analyst,C4,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,11.76,False,8,10,61,87.04,3358d3b898245eb47bce4943d886c808b4f66b281a69b38a6de84f05f08e4651
+1,29mb,29mb#n007,analyst,C5,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,11.76,False,8,10,71,91.16,cf7c764e9fcd4cdd54004971cae8009e6c70b78e8214d5bf06eedc54a11e8df4
+1,29mb,29mb#n007,analyst,C6,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,11.76,False,8,10,94,82.51,fbb3b8f9f4c79c937c8688bb4d7b57cb47e0fe425405066b6ed57b122d54612d
+1,29mb,29mb#n055,client,C1,Tell me a little about yourself.,,,11.43,True,16,17,154,84.4,6d82d4ddbe6a476f9bbbd46a490cef964c90fafa38402c1d761fd94f85c62dcb
+1,29mb,29mb#n055,client,C2,Tell me a little about yourself.,,,11.43,True,16,17,103,82.34,a9335a0ccdafa3dd14e7498bcd1a6a8bb68d614cec2d83d33784b1719844e52d
+1,29mb,29mb#n055,client,C3,Tell me a little about yourself.,,,11.43,True,16,17,163,84.57,4b715646e9a998370dee1fb5da5ab40345bacf097705c477c06c37e73693771c
+1,29mb,29mb#n055,client,C4,Tell me a little about yourself.,,,11.43,True,16,17,112,82.55,5acc5ac0b248d468636366e829335bb0965c1186ca22c7c8c9a1b3bad2d894d5
+1,29mb,29mb#n055,client,C5,Tell me a little about yourself.,,,11.43,True,16,17,136,85.43,1a2278005f646a45c36f121b6f5a8790fd6f4bfe563c584c8b86a5eaceb3fede
+1,29mb,29mb#n055,client,C6,Tell me a little about yourself.,,,11.43,True,16,17,164,84.63,9c162143715c6488691f61c311adc3fb1049cbd00efcf941f81fe4c5a36056a6
+1,29mb,29mb#n080,analyst,C1,How have your life experiences shaped who you are today?,SHAPED,good,16.36,False,9,7,78,92.3,b629928c816a717a77ac673a70d60f79a13e35f4091e15e51f3e7f0d4f1a6765
+1,29mb,29mb#n080,analyst,C2,How have your life experiences shaped who you are today?,SHAPED,good,16.36,False,9,7,46,94.01,3f63462f02180e24888d16cfd85b5b03075bd4fad69e7da15aaaec8c813f6924
+1,29mb,29mb#n080,analyst,C3,How have your life experiences shaped who you are today?,SHAPED,good,16.36,False,9,7,87,91.96,204b49e87a4c7911caf6ced271a653732cc53488ae3bdc4f43bd96127a38e61f
+1,29mb,29mb#n080,analyst,C4,How have your life experiences shaped who you are today?,SHAPED,good,16.36,False,9,7,55,92.61,5559c80669ca8d98e7a1168707d5668282e6c30237c31622b704ea106c9c50f3
+1,29mb,29mb#n080,analyst,C5,How have your life experiences shaped who you are today?,SHAPED,good,16.36,False,9,7,66,97.3,94894e8a5a03ee370c31c231f61520d5e777d87a8c8a7d4b70549e3e5c0b6dcc
+1,29mb,29mb#n080,analyst,C6,How have your life experiences shaped who you are today?,SHAPED,good,16.36,False,9,7,88,91.97,ca11384cdeb05444999d601a228b2b0993671efefbe0163ec6c77806df67a497
+1,29mb,29mb#n086,client,C1,How have your life experiences shaped who you are today?,SHAPED,good,14.81,False,8,6,64,94.29,b47144be15d567c0d3fe2947f8e5d4b07c57d866422b7a08a0d1393ac058d967
+1,29mb,29mb#n086,client,C2,How have your life experiences shaped who you are today?,SHAPED,good,14.81,False,8,6,41,87.09,e418ae5b97a873b6ca0b345354be9ded92a279737bd7d46fc928f8cd66d1f1a3
+1,29mb,29mb#n086,client,C3,How have your life experiences shaped who you are today?,SHAPED,good,14.81,False,8,6,73,93.14,7162fd585d826fd6cb5a7f19d753991d5479e1e1dca0eedbe13746f036a4b4ba
+1,29mb,29mb#n086,client,C4,How have your life experiences shaped who you are today?,SHAPED,good,14.81,False,8,6,50,86.7,a248e2d61cee75c1c2cea13e86ffe13886c058244d95901f759ce1bb5be1265b
+1,29mb,29mb#n086,client,C5,How have your life experiences shaped who you are today?,SHAPED,good,14.81,False,8,6,56,88.21,b6368a1fa9eca1b2a2cec87df585cd085a1b009ecc023cb58f0873af4a29a994
+1,29mb,29mb#n086,client,C6,How have your life experiences shaped who you are today?,SHAPED,good,14.81,False,8,6,74,93.31,c994688feb3b0451a32fadde645464b6e9c38db2c574543fb6f625a045a87c33
+1,29mb,29mb#01,analyst,C1,Tell me about your work experience.,WORK,partial,12.8,False,16,11,153,88.21,6dd1ea1ee9b9529da150a0424f2849948270246acabbf5fe918bfed1653764f4
+1,29mb,29mb#01,analyst,C2,Tell me about your work experience.,WORK,partial,12.8,False,16,11,103,94.66,8a5ec6c550d90cdaf55e9fd42d3086fb95e8befea9c2c371c8ec80932ae007f6
+1,29mb,29mb#01,analyst,C3,Tell me about your work experience.,WORK,partial,12.8,False,16,11,162,88.17,6f665b2870ca5491edb6f747c05ddfc1cdad421c647033846f8a999abb9ecce0
+1,29mb,29mb#01,analyst,C4,Tell me about your work experience.,WORK,partial,12.8,False,16,11,112,93.88,c2ae0c58f93098e80d6fda2cbdbfb1ea8dbb9e1e2ecbdd9c29494fa231632e49
+1,29mb,29mb#01,analyst,C5,Tell me about your work experience.,WORK,partial,12.8,False,16,11,133,95.97,e93d0f57bb357f0956b7e22a89fac783ab07ccbd89f9e9074e1e64c71b80091c
+1,29mb,29mb#01,analyst,C6,Tell me about your work experience.,WORK,partial,12.8,False,16,11,163,88.21,3ddac32ef078df66e366d1e464572765aa1a0880e8f1915614f798239e6bc9f2
+1,29mc,29mc#n028,client,C1,Tell me a little about yourself.,,,19.23,True,10,5,53,100.09,ed873f743021bfb60a10df8c45b306c8628d9fd84f1e3aa6ff290c4c90a71516
+1,29mc,29mc#n028,client,C2,Tell me a little about yourself.,,,19.23,True,10,5,40,83.32,2093c5ef96d1bb6ce87b5b2a3ae0b48c8a0774e447325bcaef11420e90c1bea2
+1,29mc,29mc#n028,client,C3,Tell me a little about yourself.,,,19.23,True,10,5,62,98.46,f8d88e14f79dd5a47c436a27f1840af05ba254119c115537deb2ddfe8c2c664f
+1,29mc,29mc#n028,client,C4,Tell me a little about yourself.,,,19.23,True,10,5,49,83.9,ec155b926f648ecc7e2af8183663112db471cec4853c331cf37a4d16c3344cb7
+1,29mc,29mc#n028,client,C5,Tell me a little about yourself.,,,19.23,True,10,5,55,85.17,799c25b692ff86f68594a89a3a6e69163652ae895322dd68f5c2295668f1b4f0
+1,29mc,29mc#n028,client,C6,Tell me a little about yourself.,,,19.23,True,10,5,63,98.73,1e262e226544c5ceec9460b61846535f489dca859a607e6fe324f07291f4bb20
+1,29mc,29mc#00,analyst,C1,What does good communication mean to you? Can you give an example?,COMM,good,21.64,False,37,11,163,83.28,21e1a870c0da1fd567fd8cb45556e47c52de3e4706c3d675ed8d463acde39e4d
+1,29mc,29mc#00,analyst,C2,What does good communication mean to you? Can you give an example?,COMM,good,21.64,False,37,11,112,65.04,2232558728fbdea8f794515aeb93f2411370755e38dba944591d84ad8f7718b0
+1,29mc,29mc#00,analyst,C3,What does good communication mean to you? Can you give an example?,COMM,good,21.64,False,37,11,172,83.6,d68924525b812f84b0ad132baf991665d1c1df4ac87d43b823f8f495a9caa4dc
+1,29mc,29mc#00,analyst,C4,What does good communication mean to you? Can you give an example?,COMM,good,21.64,False,37,11,121,66.6,de3906171c7a8fd23cfc2beeb9940f0eedfedc5159508ee2ba858d394bb58012
+1,29mc,29mc#00,analyst,C5,What does good communication mean to you? Can you give an example?,COMM,good,21.64,False,37,11,165,72.35,23b1fe7975c651c677b5d00db9fc81c8d12347fca13fae676412469929ac2b06
+1,29mc,29mc#00,analyst,C6,What does good communication mean to you? Can you give an example?,COMM,good,21.64,False,37,11,173,83.79,453aa2b893e595ffaf12ba2822304e18d97fdd7527300ed1ba5de7e833bff83a
+1,32m,32m#n025,client,C1,Tell me a little about yourself.,,,4.07,True,5,3,107,90.82,68d95486fccace0e23ca2bf821510b675ffa504c3119242c468883d8a2219831
+1,32m,32m#n025,client,C2,Tell me a little about yourself.,,,4.07,True,5,3,97,74.94,20c2e88e11bb219fb65a99e85d189f00d064453956abf595b25de73b1ba2811f
+1,32m,32m#n025,client,C3,Tell me a little about yourself.,,,4.07,True,5,3,116,90.38,05b621544870b22e8a88baf18ba95e84007584c48f98e2218550fd7e51a1e9ee
+1,32m,32m#n025,client,C4,Tell me a little about yourself.,,,4.07,True,5,3,106,77.57,dbe15d99e04ab83703dec0ea9ff4214656db8beac6b83ea92d2e755140feecea
+1,32m,32m#n025,client,C5,Tell me a little about yourself.,,,4.07,True,5,3,105,74.64,2f02a08ec0f5370c6c75db956a2bf0323bed68d857e14afb3ae9e90cd8cf8fa4
+1,32m,32m#n025,client,C6,Tell me a little about yourself.,,,4.07,True,5,3,117,90.47,dd47d5da0926137047bbfcc53224724e8a041694341b67f069c255ea5c2d3d65
+1,32m,32m#n029,analyst,C1,Tell me a little about yourself.,,,3.91,True,7,4,155,63.48,ca86ceabd2c75e7e3f8f4e8efb4f848d9f5b47ef05ce39f7bf1a5900fa27d58f
+1,32m,32m#n029,analyst,C2,Tell me a little about yourself.,,,3.91,True,7,4,140,70.25,c8be78e0d416d7544eca181710192ce0f1262523dec56740cf0bb679a56e97c5
+1,32m,32m#n029,analyst,C3,Tell me a little about yourself.,,,3.91,True,7,4,164,67.15,6ba1525eecd66212cbf2d11aa0a8582eb1effa1c69e1a157260a271a0c6d1d42
+1,32m,32m#n029,analyst,C4,Tell me a little about yourself.,,,3.91,True,7,4,149,73.18,b75bf76940e619869e91029eda4fae4d8d6b47ef460eb7bd1f70d0287b57976c
+1,32m,32m#n029,analyst,C5,Tell me a little about yourself.,,,3.91,True,7,4,153,69.61,79863610a3953706da76265cd2e6438f9251dd5e117c6b4da7e80e2b2d3ccfbe
+1,32m,32m#n029,analyst,C6,Tell me a little about yourself.,,,3.91,True,7,4,165,67.15,3c8216ee58ddd40bfebf633ac19e8f45184bc3d5b50673903fabde3a16adbc9b
+1,32m,32m#n040,client,C1,Tell me a little about yourself.,,,2.63,True,2,3,66,86.72,e70bbce2b3c300699f651bb02052247a079b2d7158d0812dc9cac5f6d79856ad
+1,32m,32m#n040,client,C2,Tell me a little about yourself.,,,2.63,True,2,3,61,80.79,abc0f994e1c867514a4959ca9f2a23e5320b50ac30491ed064722876d4927ae8
+1,32m,32m#n040,client,C3,Tell me a little about yourself.,,,2.63,True,2,3,75,86.54,44ccd8f090b3f12a98b307532c2cc0db0ce2d7e758c8c4e3a440a353ca91520d
+1,32m,32m#n040,client,C4,Tell me a little about yourself.,,,2.63,True,2,3,70,82.72,e78e0257328aa66678f70cf539ca6238750c9757d5479a5b2cdc44d92dd11c0f
+1,32m,32m#n040,client,C5,Tell me a little about yourself.,,,2.63,True,2,3,66,75.55,e439b0874000d05bea6763d2db030e3c4a9515e5580c4dc017465458927d1fc6
+1,32m,32m#n040,client,C6,Tell me a little about yourself.,,,2.63,True,2,3,76,86.73,9a5fca4a29d25c30fcda363994025576563b11e01474723c344fd8fb65cc7cce
+1,34m,34m#n012,analyst,C1,Tell me a little about yourself.,ABOUT,partial,3.08,False,2,9,64,89.16,944fa23855899551b1669ad24b50592b208c2a37d9084cbf4ee931b08fa3d472
+1,34m,34m#n012,analyst,C2,Tell me a little about yourself.,ABOUT,partial,3.08,False,2,9,50,89.61,7621c154e95b728dacef63907be245df090f2dc132809a598e7c1f3744c1f93b
+1,34m,34m#n012,analyst,C3,Tell me a little about yourself.,ABOUT,partial,3.08,False,2,9,73,88.64,d59d20f781c02eb8b30f5b87d85d883e1911b1b0458ef80f8980a5131f0ee83f
+1,34m,34m#n012,analyst,C4,Tell me a little about yourself.,ABOUT,partial,3.08,False,2,9,59,88.94,945124443142bb94a2cf9b49af323f2750a4d1ae5ae0c8c4171a494184ec7fde
+1,34m,34m#n012,analyst,C5,Tell me a little about yourself.,ABOUT,partial,3.08,False,2,9,63,90.27,b96fabf6db4286cffdc145f1686127cb6295c76ec23e1c6f436a30c12415ed1c
+1,34m,34m#n012,analyst,C6,Tell me a little about yourself.,ABOUT,partial,3.08,False,2,9,74,88.84,45a8b255bc7b56ee746f8a70b4715602468c63919cdffeb4437a78439809fdcc
+1,34m,34m#n028,client,C1,Tell me about your work experience.,WORK,good,12.73,False,7,14,80,112.44,6616600af392fbdb8b7f7535e39597e0534a7b7fc3a4a70d4ba4524acbdd5c0b
+1,34m,34m#n028,client,C2,Tell me about your work experience.,WORK,good,12.73,False,7,14,50,108.14,70cd7184663f5676617442b67479e2013218257c34a91f05d14d83363ba8bc32
+1,34m,34m#n028,client,C3,Tell me about your work experience.,WORK,good,12.73,False,7,14,89,109.88,897190657af8944aa00cea22392923c2fd6531d2d2526c3b97075f636e03d220
+1,34m,34m#n028,client,C4,Tell me about your work experience.,WORK,good,12.73,False,7,14,59,104.78,9dd8b51d27c9050ba89fbf53aacdd59afba62946dd65d01f8bc807b9a1d60ae0
+1,34m,34m#n028,client,C5,Tell me about your work experience.,WORK,good,12.73,False,7,14,82,107.83,2a02ed4f46b9947b2f9b25faaa30af9843c30c256bd1cb3e3fd24c6b5c7cc181
+1,34m,34m#n028,client,C6,Tell me about your work experience.,WORK,good,12.73,False,7,14,90,109.91,0eb31b97e994ab1e93d53adf0259b6ce15c2a79ca45cae8b8e069f1bba0899df
+1,34m,34m#n060,analyst,C1,What does good communication mean to you? Can you give an example?,COMM,good,1.82,False,1,1,43,87.42,0b6386589e87e6aefcfbbc58022f88b2d9619938b89e079ea5fa3f2e44aca4aa
+1,34m,34m#n060,analyst,C2,What does good communication mean to you? Can you give an example?,COMM,good,1.82,False,1,1,41,79.48,4d80432092f7f576e5bb0dfd5e30d86248d57b7080b6116603a09bc4f844cb63
+1,34m,34m#n060,analyst,C3,What does good communication mean to you? Can you give an example?,COMM,good,1.82,False,1,1,52,87.04,a5b083fc3da02c92056a31105ab8d39a8db503a53b6ef6fb2707d1bf3f56d5f3
+1,34m,34m#n060,analyst,C4,What does good communication mean to you? Can you give an example?,COMM,good,1.82,False,1,1,50,80.78,cfb00927186d6783a92ad12878582218d99573a30c5af521fd42bb624325b693
+1,34m,34m#n060,analyst,C5,What does good communication mean to you? Can you give an example?,COMM,good,1.82,False,1,1,43,80.14,fec1786b01c5af42cd4994ea20a945b4fc12f80cddc8bf514a1ef8179396b1a0
+1,34m,34m#n060,analyst,C6,What does good communication mean to you? Can you give an example?,COMM,good,1.82,False,1,1,53,87.41,ad032269238ad409a6aea52af5ca198eb0aff726444ed76eaaa68c21b2f83207
+1,35ma,35ma#n000,client,C1,Tell me a little about yourself.,,,46.03,True,26,4,113,100.51,1f45c8ab8ee2618a900dd25398ca888bf995a1c5547bdb67b4585e765dbb2dce
+1,35ma,35ma#n000,client,C2,Tell me a little about yourself.,,,46.03,True,26,4,49,88.12,68b766b50a029e0c349e7799831278342830c7c9516fce51eeed5e90edd35505
+1,35ma,35ma#n000,client,C3,Tell me a little about yourself.,,,46.03,True,26,4,122,99.41,f9a0b2a1e294ce36fd4d0e657b1b4eae96d07aef1105cc8af61b1bb11798aec8
+1,35ma,35ma#n000,client,C4,Tell me a little about yourself.,,,46.03,True,26,4,58,87.63,73759af3298c42b4939a201ff7dffa0b2d519ed374652c6f6f24a649b760d336
+1,35ma,35ma#n000,client,C5,Tell me a little about yourself.,,,46.03,True,26,4,109,84.59,f059695f5552e7f0701a92151d61cc27510b765c23c5c1acfcbd57f858543122
+1,35ma,35ma#n000,client,C6,Tell me a little about yourself.,,,46.03,True,26,4,123,99.48,211199d23c2e38e8c934b29fe9d13f2dc09560a12581e55110a39af1b799dcfa
+1,35mb,35mb#n017,client,C1,Tell me a little about yourself.,,,9.23,True,12,5,126,103.66,52dcbc3a10b8bbb1a78903436ce8d668d5f9c69536865caa4d1d6f06c578c1f2
+1,35mb,35mb#n017,client,C2,Tell me a little about yourself.,,,9.23,True,12,5,112,99.89,0c42aa304ce11e6b5ad782307c8d264f6c416192d31537bbeda0e9c07767e9a7
+1,35mb,35mb#n017,client,C3,Tell me a little about yourself.,,,9.23,True,12,5,135,102.49,4b8435cd0bf0cd468fb5466e47e0d79b596bb65ec036cc3d0519703294c237d6
+1,35mb,35mb#n017,client,C4,Tell me a little about yourself.,,,9.23,True,12,5,121,98.78,484cd4c7dfaef2a4f30806a8ae36770e6c20a1ae52c6782cd214d65d439a7601
+1,35mb,35mb#n017,client,C5,Tell me a little about yourself.,,,9.23,True,12,5,129,100.36,d06d933c17deefd24626c5f9251f3b7bc2ac184e4367f60d22b730ecb2e0e048
+1,35mb,35mb#n017,client,C6,Tell me a little about yourself.,,,9.23,True,12,5,136,102.55,f6248fa3e3c1fb177912218e64ae8189e163f6f290437eeaeb9236060dee6d62
+1,35mb,35mb#n064,analyst,C1,Tell me a little about yourself.,,,8.24,True,7,3,91,103.43,79357337c04ee8e02a94f7dd8179c1d46ee0e09364b4e4664b2bde439fa90532
+1,35mb,35mb#n064,analyst,C2,Tell me a little about yourself.,,,8.24,True,7,3,70,97.0,8fad5a62e3b2c30742323e63f8498f5484d653d623799df9d1c30c544f7c82be
+1,35mb,35mb#n064,analyst,C3,Tell me a little about yourself.,,,8.24,True,7,3,100,101.93,45238e3a841ca795600508574914bbe15faaff7ca393334478feb60c23343270
+1,35mb,35mb#n064,analyst,C4,Tell me a little about yourself.,,,8.24,True,7,3,79,95.67,2bebf92614836270c8b51b7a621ddf0fb4ef9f65a02fdc8f0414569dce396f48
+1,35mb,35mb#n064,analyst,C5,Tell me a little about yourself.,,,8.24,True,7,3,94,99.19,010d506c258339a88897474b469c70279ac5aa3b1a8d1b82fd36b88c88742fb2
+1,35mb,35mb#n064,analyst,C6,Tell me a little about yourself.,,,8.24,True,7,3,101,102.03,4221f8e3f42176434929a6c466e9214d550ab47c91658eaea465092ebdd98805
+1,35mb,35mb#n074,client,C1,Tell me a little about yourself.,,,7.25,True,5,4,64,98.32,280a1cb0ff806e3049c7cbb055161148ef0d43bcc84a3bbcb66145931967e87e
+1,35mb,35mb#n074,client,C2,Tell me a little about yourself.,,,7.25,True,5,4,56,96.28,db4e42893d4d17096f7a9771173f6e440e75e9fdf6b2607527fa3f17525c2032
+1,35mb,35mb#n074,client,C3,Tell me a little about yourself.,,,7.25,True,5,4,73,96.83,ff6bff6ee565ad9f635d8c9628f478d63b16216bb14eb61a907a05b6d36f6672
+1,35mb,35mb#n074,client,C4,Tell me a little about yourself.,,,7.25,True,5,4,65,94.81,6449913233288899b786ba6c215edb8a0d5d32f733dbe1949b33723c35999e4b
+1,35mb,35mb#n074,client,C5,Tell me a little about yourself.,,,7.25,True,5,4,67,97.0,e2af594d873f1c48e3d4a1de8d592b832403792c24a9bb4195565cd9de588417
+1,35mb,35mb#n074,client,C6,Tell me a little about yourself.,,,7.25,True,5,4,74,97.02,157ead661e05ea7a021cc7123d7ff2281e18619b9ca1fc7bb2fbf446eb3b7bbd
+1,35mb,35mb#n092,analyst,C1,Tell me a little about yourself.,,,6.95,True,13,5,171,95.77,4ab4d3d5604377bac3852d0139284745c7967b992f5b9578b6702154cb09c979
+1,35mb,35mb#n092,analyst,C2,Tell me a little about yourself.,,,6.95,True,13,5,148,92.43,a51c21b94338141a2722c61254348e0d81c57d897f15cc2808ae311b9283585d
+1,35mb,35mb#n092,analyst,C3,Tell me a little about yourself.,,,6.95,True,13,5,180,95.26,9921d600223440ad4030f24bfd759f380cf1a412e3c863ee4dd5ee2e649aec8f
+1,35mb,35mb#n092,analyst,C4,Tell me a little about yourself.,,,6.95,True,13,5,157,92.01,30c4b565d2bcb59a70824989c50186f1f562730903e0fb1bcdb3695f02307d6f
+1,35mb,35mb#n092,analyst,C5,Tell me a little about yourself.,,,6.95,True,13,5,170,93.7,ff34cfd4fd34c1b6bcfc0af1a147ed7cd70a9d47ab63d6ed44be4eed77e9c5e5
+1,35mb,35mb#n092,analyst,C6,Tell me a little about yourself.,,,6.95,True,13,5,181,95.33,7b19785b9328fa661ebd2cc27c3ff6afdc7b3883d860a0c58e6d1cab2956665d
+1,37m,37m#n001,client,C1,Tell me a little about yourself.,,,20.73,True,17,0,78,85.57,743694f0d8e6f2aac98ee87eedcc5627c0bec4083b788c4676de033b12252323
+1,37m,37m#n001,client,C2,Tell me a little about yourself.,,,20.73,True,17,0,56,54.54,40e5ccdccce365a9d3c60a4dca07a5b7ce492012343d1fa20feaab1696b6cde2
+1,37m,37m#n001,client,C3,Tell me a little about yourself.,,,20.73,True,17,0,87,85.9,bb6bbcb66fe398f9e96ff596344d81596fd31b66df990b1d655d0727ba0c5ace
+1,37m,37m#n001,client,C4,Tell me a little about yourself.,,,20.73,True,17,0,65,62.5,f7f35d85e3526743d83e90046cd059348a23834f1ac881661cf2828e2206d8e6
+1,37m,37m#n001,client,C5,Tell me a little about yourself.,,,20.73,True,17,0,80,54.14,81c74a1d412559572d9cfa594cf31840dafb83b981157635ec5a3a136a4f1c46
+1,37m,37m#n001,client,C6,Tell me a little about yourself.,,,20.73,True,17,0,88,86.24,3ccea679122a6e5b7f09a8cf6b3e07abcd5e0199f047ae41660793d6c588f116
+1,37m,37m#n019,analyst,C1,Tell me about your work experience.,WORK,good,29.25,False,43,2,158,89.85,2cfc5e15cb8a6f3f831a0ef8f66c52a05302ae30b72f81bb3ee824992eb87a8a
+1,37m,37m#n019,analyst,C2,Tell me about your work experience.,WORK,good,29.25,False,43,2,103,68.67,f99e2682a2ab3e38a5ec5ac60592e809c357139c6f2651c6743146f817336a41
+1,37m,37m#n019,analyst,C3,Tell me about your work experience.,WORK,good,29.25,False,43,2,167,89.62,2248193fa123645cf21f4fda2893c33ab12d007e80761c500aae8d7880cd1415
+1,37m,37m#n019,analyst,C4,Tell me about your work experience.,WORK,good,29.25,False,43,2,112,70.49,444a40e710d7b8c9db1fe36add21dcaf54ee22a92cf20860f8d5434c96d05447
+1,37m,37m#n019,analyst,C5,Tell me about your work experience.,WORK,good,29.25,False,43,2,156,71.98,b6620fa5be740feb916c3eaaa2b512dbb5d21e4818eac5360b7057edb87b2108
+1,37m,37m#n019,analyst,C6,Tell me about your work experience.,WORK,good,29.25,False,43,2,168,89.73,9a2182ba26ca6e29c0afdf2b39fe5446c41ca8d62846e4e84e5f1caf1c4ce15d
+1,37m,37m#n028,client,C1,What advice would you give to someone starting out?,ADVICE,good,29.67,False,27,1,112,84.95,be4542690274f5665ac0372567794f558c6ffed5f8feba59d0a5fb1353d0eaeb
+1,37m,37m#n028,client,C2,What advice would you give to someone starting out?,ADVICE,good,29.67,False,27,1,72,87.73,a925286489dd9bb1362c133d70af888e825d045e359bffb8d64762cbd58643a5
+1,37m,37m#n028,client,C3,What advice would you give to someone starting out?,ADVICE,good,29.67,False,27,1,121,85.01,9efe336e52968291532302adc6e8773fb7e00f3016fea8f16b03e573929d1a33
+1,37m,37m#n028,client,C4,What advice would you give to someone starting out?,ADVICE,good,29.67,False,27,1,81,87.51,5691cd166dae398fff6c7c36a60b353cb4b3a6a66405c38805d30f974b243262
+1,37m,37m#n028,client,C5,What advice would you give to someone starting out?,ADVICE,good,29.67,False,27,1,100,89.24,a9326591d48ccdd140dcd9803c0a100d3d9b327293f295143c3a58a24afdf0eb
+1,37m,37m#n028,client,C6,What advice would you give to someone starting out?,ADVICE,good,29.67,False,27,1,122,85.21,98b47d17129622657f211946521e9ac3fb5d97c96ddfd82a268893c0c78953e1
+1,43m,43m#n000,analyst,C1,Tell me a little about yourself.,,,2.6,True,2,7,76,92.56,6abe2f73b255c6326dd7e026df913a5b277ed04d40ce3ae1d0e61d0649cb000e
+1,43m,43m#n000,analyst,C2,Tell me a little about yourself.,,,2.6,True,2,7,59,84.45,ffbb6ff09382cc8e02d055ff95daba1b5d1f7ee0f467667bb7094e77eb7c6217
+1,43m,43m#n000,analyst,C3,Tell me a little about yourself.,,,2.6,True,2,7,85,91.75,2efa99485b2039ba4d7ddf869d481010d56ca9105f7731b13b41ffdfa2697520
+1,43m,43m#n000,analyst,C4,Tell me a little about yourself.,,,2.6,True,2,7,68,84.61,49228b178565cac16ac9eac53f9e6746ff1e9d68974fdedd5fe1178737936102
+1,43m,43m#n000,analyst,C5,Tell me a little about yourself.,,,2.6,True,2,7,76,86.77,0b35501766782024da5731ac13b0e07c7ff9ccb9f4d669b158998885a4cb4428
+1,43m,43m#n000,analyst,C6,Tell me a little about yourself.,,,2.6,True,2,7,86,91.88,15bace19377216c05331957a82e81cd73b697c1b85ab9d9f888d6c03ab4d8425
+1,43m,43m#n006,client,C1,Tell me a little about yourself.,,,8.18,True,9,6,91,74.79,4df1ecb0a3fbadde01aa5d14650cb18d6d00955fc1a493dcd0499c17eaca598d
+1,43m,43m#n006,client,C2,Tell me a little about yourself.,,,8.18,True,9,6,73,67.01,363210cc951af5ef86304e0c30f46c3f5bf7608e6b9b08da267c197d0c49fcf6
+1,43m,43m#n006,client,C3,Tell me a little about yourself.,,,8.18,True,9,6,100,75.71,719c527b6013c1a1444de1724725b1f269f85b3c066004219b3120c019f55947
+1,43m,43m#n006,client,C4,Tell me a little about yourself.,,,8.18,True,9,6,82,69.08,c70bb721fafb657339c47ab2dd1bcbac65cc42097d760fdeadc87976f0637d98
+1,43m,43m#n006,client,C5,Tell me a little about yourself.,,,8.18,True,9,6,91,71.51,2b17748c3b8a60e6df3b884ea7b3a1ae53504c8da09cf3df9d5667c17b0d2630
+1,43m,43m#n006,client,C6,Tell me a little about yourself.,,,8.18,True,9,6,101,75.97,085c1fcc14afb5579676e74462562fe43938f4efe39163f95d151350b32c3882
+1,43m,43m#n013,analyst,C1,Tell me a little about yourself.,,,7.53,True,7,4,81,82.42,2f53ece582f56b42c4377e906186f1b586563af1b3598633bd6fa793e119b1c8
+1,43m,43m#n013,analyst,C2,Tell me a little about yourself.,,,7.53,True,7,4,68,79.63,6d161e00b8f076a5badeade1f8d4528f90ed2a704ff48c9e51173382f55bfe40
+1,43m,43m#n013,analyst,C3,Tell me a little about yourself.,,,7.53,True,7,4,90,82.87,95ea66aa629147cde278ceb0d2c1faf4e4a908a47fa2e50e6b2f21257f0ab7a7
+1,43m,43m#n013,analyst,C4,Tell me a little about yourself.,,,7.53,True,7,4,77,80.31,2757486c1d3e787653d61d078a4ff83a160707a5af4a34185a1a711b7e50d057
+1,43m,43m#n013,analyst,C5,Tell me a little about yourself.,,,7.53,True,7,4,81,82.42,b912c6282d55e1e92d5486cdfb4819533edc8d8db43f3284766a2a22d6466985
+1,43m,43m#n013,analyst,C6,Tell me a little about yourself.,,,7.53,True,7,4,91,83.01,1f71f6c27f61d9e9e52ddd90d434894ffcf97ec9dce222e36394874352a504e8
+1,43m,43m#n044,client,C1,What does good communication mean to you? Can you give an example?,COMM,good,7.25,False,5,2,54,64.27,95875dfc6250265b9094c889393ec5848be263c8d348924d338765b28f76b101
+1,43m,43m#n044,client,C2,What does good communication mean to you? Can you give an example?,COMM,good,7.25,False,5,2,43,49.26,0580f61fc8c18f1f1274e5017c72edf624b77f6ae99b4660c433fb792de537cc
+1,43m,43m#n044,client,C3,What does good communication mean to you? Can you give an example?,COMM,good,7.25,False,5,2,63,67.26,83500765ace5192549ab5219cd016c32f391afdc38ac199ab2d200410963ca95
+1,43m,43m#n044,client,C4,What does good communication mean to you? Can you give an example?,COMM,good,7.25,False,5,2,52,57.46,00a6d282aab51c190a60ccac166f4b68e4dcac57eb28ebe951bf4d292aa3eb10
+1,43m,43m#n044,client,C5,What does good communication mean to you? Can you give an example?,COMM,good,7.25,False,5,2,52,53.55,cf78a97287ea74c5b9e21308817babefd4c25a089445c239992424a725b4cda6
+1,43m,43m#n044,client,C6,What does good communication mean to you? Can you give an example?,COMM,good,7.25,False,5,2,64,67.79,757cf00e3132d1427d5628ca1e16c394d3723fea656b68c4e4db8a358f897e33
+1,43m,43m#02,analyst,C1,What does good communication mean to you? Can you give an example?,COMM,good,9.65,False,11,5,109,83.81,dbfbc75c5ba098db5f52d845ccdfb9980cdd2d02d6ac055335ad3aefee339267
+1,43m,43m#02,analyst,C2,What does good communication mean to you? Can you give an example?,COMM,good,9.65,False,11,5,79,58.03,9b13fa025069e9c36694e178062341cc05a14c5d35c72120316e8a4246a48110
+1,43m,43m#02,analyst,C3,What does good communication mean to you? Can you give an example?,COMM,good,9.65,False,11,5,118,83.92,09a0d56e75bd555abe1131aa2ea90f14cd2b4f6e0a706dad58dd57f372b60520
+1,43m,43m#02,analyst,C4,What does good communication mean to you? Can you give an example?,COMM,good,9.65,False,11,5,88,63.37,d0913f4231f44f02818bddc0e8786ba6c6baea4187b7ef620a226f2c7f1b256b
+1,43m,43m#02,analyst,C5,What does good communication mean to you? Can you give an example?,COMM,good,9.65,False,11,5,107,54.41,5faae20bd7615f70d1b7d7cd119c75bd1687b32c3ae86124db192f448a63bc1c
+1,43m,43m#02,analyst,C6,What does good communication mean to you? Can you give an example?,COMM,good,9.65,False,11,5,119,84.12,e8aaf70a3156de55cbb04e1380acd3af75624c7bfd99169299b4159ee9aeadfb
+1,43m,43m#n050,client,C1,Tell me a little about yourself.,,,10.43,True,12,3,108,84.12,456ea08419319cacc8eee9f70409f15b1c34d67b43b968c3ed6fa3136ae28dc5
+1,43m,43m#n050,client,C2,Tell me a little about yourself.,,,10.43,True,12,3,82,78.94,dfe8b555a396789d7630cf6294eb87a9d93a96e41e99c97f80016e686c3c28a4
+1,43m,43m#n050,client,C3,Tell me a little about yourself.,,,10.43,True,12,3,117,84.3,a3c77fa1a7e36653f1d88e492ac1662233e8d33c59bcb825873f087c41085c5d
+1,43m,43m#n050,client,C4,Tell me a little about yourself.,,,10.43,True,12,3,91,79.53,7abbc9bd2b0a82528a754738b307173e14d10f6bc8a8de8bbdb21fb769ceb5a6
+1,43m,43m#n050,client,C5,Tell me a little about yourself.,,,10.43,True,12,3,106,83.94,71f99f199e17923218b762aa7ce3d0fccfb1c8a3d71d4b27c0d7d2594de1e75e
+1,43m,43m#n050,client,C6,Tell me a little about yourself.,,,10.43,True,12,3,118,84.53,9666297cccd31676cc7cd025607fe4d1778fae0dcadbff85eaf316644d70a5f5
+1,44m,44m#01,analyst,C1,Tell me about a time you presented or spoke in front of others.,PRESENT,good,3.05,False,4,12,131,93.36,d2a1da3987ad06662e67763066a70f60b57d4e3be745436984d2c5d600b3eab7
+1,44m,44m#01,analyst,C2,Tell me about a time you presented or spoke in front of others.,PRESENT,good,3.05,False,4,12,104,90.68,6a9cbcd5f98de441e746503f5fd05963c1428020dbdbb2ec5bf5e22fce01ad23
+1,44m,44m#01,analyst,C3,Tell me about a time you presented or spoke in front of others.,PRESENT,good,3.05,False,4,12,140,92.82,9586b9072c0d9c77154005029d1f3bf13903aed03537600d2f3ef7c7cb8c8391
+1,44m,44m#01,analyst,C4,Tell me about a time you presented or spoke in front of others.,PRESENT,good,3.05,False,4,12,113,90.22,698dc76928dea2a348245eb2a40af94c4e4385294f320b5d69b66ea8e119cfb3
+1,44m,44m#01,analyst,C5,Tell me about a time you presented or spoke in front of others.,PRESENT,good,3.05,False,4,12,129,91.31,893a5b5bea343bda97921b7ed5db743b455f89626189ae9ef393cbaa5902fba2
+1,44m,44m#01,analyst,C6,Tell me about a time you presented or spoke in front of others.,PRESENT,good,3.05,False,4,12,141,92.89,46e81c689ce2845bcede9f7c9c7e6797a78e633fe69a5201214750cb98d70d34
+1,44m,44m#n265,analyst,C1,What does good communication mean to you? Can you give an example?,COMM,good,1.72,False,1,3,53,93.8,11e967f1b5042373a518a36463f54eca901e7cd5a1769d43bac8fe97a1f6dd10
+1,44m,44m#n265,analyst,C2,What does good communication mean to you? Can you give an example?,COMM,good,1.72,False,1,3,46,88.49,668de17143acac68bcf92cb44bbad2b942129176ad29b16d237edbad14945743
+1,44m,44m#n265,analyst,C3,What does good communication mean to you? Can you give an example?,COMM,good,1.72,False,1,3,62,92.54,4a82293bfb0569f6b91aba4a73a6304c7a6b9a1941a4560f660fc05292e3e96f
+1,44m,44m#n265,analyst,C4,What does good communication mean to you? Can you give an example?,COMM,good,1.72,False,1,3,55,88.0,c03dad01dba1e176e3d95b5d5fff3a86ebb38d2bfe832755f1ffa46fb56d626d
+1,44m,44m#n265,analyst,C5,What does good communication mean to you? Can you give an example?,COMM,good,1.72,False,1,3,54,88.17,00217d617d4c5c7b259c50a938ec999f6ef537c0e9b588bcb0d5a4efcaa54deb
+1,44m,44m#n265,analyst,C6,What does good communication mean to you? Can you give an example?,COMM,good,1.72,False,1,3,63,92.76,22f9670a96c218f3e4df1c070dd626c4fff134a7221e7c75d5a883f60c1f4aae
+1,44m,44m#n309,client,C1,Tell me a little about yourself.,,,0.82,True,1,4,106,90.73,3fb1ff02045670a8b14ed07d80d913dd2fd9f742eb286c3d5ec076d661ca8664
+1,44m,44m#n309,client,C2,Tell me a little about yourself.,,,0.82,True,1,4,97,90.59,6ae2149ee22e22077aa3b9cbd8becf8a4aa48d8cb01968e1b53662d42364ec18
+1,44m,44m#n309,client,C3,Tell me a little about yourself.,,,0.82,True,1,4,115,90.29,d0b1f227156993959f682b89b5ff490903aad929ac4ebdf17df44f1725e61364
+1,44m,44m#n309,client,C4,Tell me a little about yourself.,,,0.82,True,1,4,106,90.11,93bf01bfe295f2e9f1f39192bc0f02c8071ff31a58f43e101dc462d4306a978b
+1,44m,44m#n309,client,C5,Tell me a little about yourself.,,,0.82,True,1,4,107,90.82,7dacd912fef44243ebde2be82fcc2642669dcae7fd2ed7d020f64e3b021b0618
+1,44m,44m#n309,client,C6,Tell me a little about yourself.,,,0.82,True,1,4,116,90.38,6f03752ecac987998b7ac98097a3cd29e0e8a56d9f5ef0f7ad75bfc54c4b3139
+1,44m,44m#15,analyst,C1,How have your life experiences shaped who you are today?,SHAPED,partial,1.06,False,1,6,82,87.19,49a4af9064d8234e77c3430902783cef2ea9acfd41c406196fbdf1b3399fe084
+1,44m,44m#15,analyst,C2,How have your life experiences shaped who you are today?,SHAPED,partial,1.06,False,1,6,72,88.27,849569cd0757f0cc3d5fc3a223fe4a140f0d1251c42abb42360a22f7aa33f8b1
+1,44m,44m#15,analyst,C3,How have your life experiences shaped who you are today?,SHAPED,partial,1.06,False,1,6,91,86.97,cfb3cb8db1ab6805cae67f69bea939e56f2a9fb26f192685e2afdd4fcd2f571b
+1,44m,44m#15,analyst,C4,How have your life experiences shaped who you are today?,SHAPED,partial,1.06,False,1,6,81,87.9,d2a344345cecdb2cf4a0a793acecaa652e2efa5b1b1edc79b205cb6716b97ac1
+1,44m,44m#15,analyst,C5,How have your life experiences shaped who you are today?,SHAPED,partial,1.06,False,1,6,81,86.99,93faa15320f7ae105d17656d2639ac78af58e930528561ea28fec14bda82c515
+1,44m,44m#15,analyst,C6,How have your life experiences shaped who you are today?,SHAPED,partial,1.06,False,1,6,92,87.15,5bda6c74123b2c794a1a024072dcd65d3ea40160477ca9ce1f27551d1a77f230
+1,46ma,46ma#n009,analyst,C1,Tell me a little about yourself.,,,1.27,True,1,2,72,88.91,82e87fa1142801b6db3e5ddc02aff378649d517d89847adb85b733fa094e44c2
+1,46ma,46ma#n009,analyst,C2,Tell me a little about yourself.,,,1.27,True,1,2,65,93.02,70a02dcac44832f7cc64d702528f2c4526b5d1ed37f9e08ede16eaf3a127ecd3
+1,46ma,46ma#n009,analyst,C3,Tell me a little about yourself.,,,1.27,True,1,2,81,88.56,639fc288c54a585ad2ced093a75b54814692f8cce9f741f02def2430e49a7851
+1,46ma,46ma#n009,analyst,C4,Tell me a little about yourself.,,,1.27,True,1,2,74,92.07,f97032d2e8811e1e99585d532e928a21147273e1bbd5578e57ccef78e07057dd
+1,46ma,46ma#n009,analyst,C5,Tell me a little about yourself.,,,1.27,True,1,2,72,90.08,bbeaba94203d91f7467dfa4d7845629328ae0cc876e1eb6169f78ea3ce862ca4
+1,46ma,46ma#n009,analyst,C6,Tell me a little about yourself.,,,1.27,True,1,2,82,88.68,6b6ed2f1285daf55cb840cc187ff7dfa202bf10efb166366e7f5d965b1e5313d
+1,46ma,46ma#n052,client,C1,Tell me a little about yourself.,,,1.35,True,1,2,64,90.26,f2798c73a4d9efc29dc86047438d158f53d682a574075cbf4b5df1e4849547ec
+1,46ma,46ma#n052,client,C2,Tell me a little about yourself.,,,1.35,True,1,2,59,90.75,e035d769a9a2264a64514f0301dea82e9133daff60b48912540ee0dd89783210
+1,46ma,46ma#n052,client,C3,Tell me a little about yourself.,,,1.35,True,1,2,73,89.63,630dc01780cba62f6fb223d4266415b0547cc1bc2fe82d59347798fb35a276d7
+1,46ma,46ma#n052,client,C4,Tell me a little about yourself.,,,1.35,True,1,2,68,89.98,044934aaa8066bc09832b7db23ffafdb476f2467bca64500af6635d33f7d876d
+1,46ma,46ma#n052,client,C5,Tell me a little about yourself.,,,1.35,True,1,2,64,90.26,7f73d062d1c9ee1e2f5c999d176110ba4704cd194e2eca9c59c3e2b2952f878e
+1,46ma,46ma#n052,client,C6,Tell me a little about yourself.,,,1.35,True,1,2,74,89.78,7fb72e716e02c795b810f6c3d870416d8c86fb5bea6e69707fafbd093cda4233
+1,46mb,46mb#n008,analyst,C1,Tell me a little about yourself.,,,1.85,True,2,2,89,73.99,6e0a1597dae924c213670d159aa412324039374b2c189d78867f368cd420f052
+1,46mb,46mb#n008,analyst,C2,Tell me a little about yourself.,,,1.85,True,2,2,81,73.48,9ab4b243326debbe0b1bc63f40719e48f18b16b3768d7fa3a7b6cc29c139715f
+1,46mb,46mb#n008,analyst,C3,Tell me a little about yourself.,,,1.85,True,2,2,98,76.44,8ebee87ef1c75d4bc4954a3a9e7e8b716854a614e1feb91b8f50fd9f68f227b6
+1,46mb,46mb#n008,analyst,C4,Tell me a little about yourself.,,,1.85,True,2,2,90,75.77,3ec1e7021ab82d671fd50d008736ac1b5fca3eeac47e559cca4c5beaee85bd90
+1,46mb,46mb#n008,analyst,C5,Tell me a little about yourself.,,,1.85,True,2,2,88,73.95,d8b4fd76dc2e3f9f71fba682ad9786293c942fceeacabaed21b7d89b772e729c
+1,46mb,46mb#n008,analyst,C6,Tell me a little about yourself.,,,1.85,True,2,2,99,76.5,81d78367de7a50755792949e0441ddec60999bae83b1e9137a5a2da0746f4213
+1,46mb,46mb#n022,client,C1,Tell me a little about yourself.,,,1.56,True,1,0,50,85.01,f87a9b5721c5dbaf085ca970ae627ffc26f3f9e9e5bc0747e7949bafa7379eb2
+1,46mb,46mb#n022,client,C2,Tell me a little about yourself.,,,1.56,True,1,0,48,84.29,84834837de907421db2cd2e05fd716b17332bce68ab6ece84fe5db86f77d97e4
+1,46mb,46mb#n022,client,C3,Tell me a little about yourself.,,,1.56,True,1,0,59,85.01,87a0faf36ecdce1e70a446544aa2d5cfe2fb27f6779eddc10b56109a4dac9654
+1,46mb,46mb#n022,client,C4,Tell me a little about yourself.,,,1.56,True,1,0,57,84.39,acb0a746f2c97bfbb1f86343066cd8c7e449fc6082b4a1fcba4860eab1a055d3
+1,46mb,46mb#n022,client,C5,Tell me a little about yourself.,,,1.56,True,1,0,49,84.66,8b5b96e6de62c9a49d3243339e6ae35f313286773672787ebbdb40dd05565f3f
+1,46mb,46mb#n022,client,C6,Tell me a little about yourself.,,,1.56,True,1,0,60,85.3,9819b02693aca2379d9434b71d91714416b69454e27fadb69f00a8a4daaf0736
+1,503,503#n004,analyst,C1,Tell me a little about yourself.,,,6.52,True,9,17,135,95.41,6c2a591d8abc108578a25071f5f42601a99bb193d767bf3a39ea1b3cf8d68a49
+1,503,503#n004,analyst,C2,Tell me a little about yourself.,,,6.52,True,9,17,106,88.42,53466434aadb2761daa1793ebb8998848c4b4ed6347931c88f0b56628ad01a19
+1,503,503#n004,analyst,C3,Tell me a little about yourself.,,,6.52,True,9,17,144,94.87,68c5932900cd87abc8c6e3aaca3fef0b4492bf7293e6207328aa2579c3fb6d0c
+1,503,503#n004,analyst,C4,Tell me a little about yourself.,,,6.52,True,9,17,115,88.15,1aa913875dab34da9006ce8ce3533932545d4b0b46ccc962fc745a4fd9322eab
+1,503,503#n004,analyst,C5,Tell me a little about yourself.,,,6.52,True,9,17,134,91.57,0b30f3ed86c6f50aeb9dfc6a3a7b7b41e80700eabaeb5c9c312b8fe5382e7ace
+1,503,503#n004,analyst,C6,Tell me a little about yourself.,,,6.52,True,9,17,145,94.99,0276fa7f058f2f40214717c73fb3bfd860bdd9aa5f138bb06bf88626eaab983f
+1,503,503#n036,client,C1,What does good communication mean to you? Can you give an example?,COMM,good,4.23,False,3,18,68,84.14,0fb7e16871512ef111aede646d5083ccdc7110cb9c515cad2a3e8309ad03ad00
+1,503,503#n036,client,C2,What does good communication mean to you? Can you give an example?,COMM,good,4.23,False,3,18,45,58.13,fbd817e79bdf406cf07e1b8245c7081509f94b608458ab212c988eed96b07206
+1,503,503#n036,client,C3,What does good communication mean to you? Can you give an example?,COMM,good,4.23,False,3,18,77,84.36,4c258906919c87c0473b509145a102c2251494f3afac3f4c30e41b05ad510f3f
+1,503,503#n036,client,C4,What does good communication mean to you? Can you give an example?,COMM,good,4.23,False,3,18,54,63.1,33229d8f22018c6db5995613ad032e8ab3f1bb4f19c2976c23e5b072972bec7a
+1,503,503#n036,client,C5,What does good communication mean to you? Can you give an example?,COMM,good,4.23,False,3,18,68,66.88,17df17d551be760846de52085383c51e4dc9e305829cb21c78d5b2d0f6f61ea6
+1,503,503#n036,client,C6,What does good communication mean to you? Can you give an example?,COMM,good,4.23,False,3,18,78,84.69,b44bd329545d56367351a82bd278b44632fc4aa99f861f38a5ba228c1f0db47f
+1,503,503#n040,analyst,C1,Tell me a little about yourself.,,,6.25,True,4,0,52,86.93,f7c03a32c605c44a44b996014077cb8fadcfac97af5584734358aff924f3f5cb
+1,503,503#n040,analyst,C2,Tell me a little about yourself.,,,6.25,True,4,0,47,75.73,2eaa7abe977a0691e9dcd8ba51ad2ecc51535ac6933f0d517a4ca98420deddb4
+1,503,503#n040,analyst,C3,Tell me a little about yourself.,,,6.25,True,4,0,61,86.96,071590d9ddc540ff26046e9b56c7a28e7c9813731bcd71bffa5b3ae0fcdf2e50
+1,503,503#n040,analyst,C4,Tell me a little about yourself.,,,6.25,True,4,0,56,77.81,1de20c4e190a910498547440357cd1c6efb2eee70ecaab957136c54538aa8ffc
+1,503,503#n040,analyst,C5,Tell me a little about yourself.,,,6.25,True,4,0,51,76.78,1e7b9b677b8de97ba8869f6c9fc8a71bf190d1f2d9ba708e45e6e6244d8c8824
+1,503,503#n040,analyst,C6,Tell me a little about yourself.,,,6.25,True,4,0,62,87.37,91052c7a867bdbb3db8038efcccbf8e0c8c4a8e66c65779344859dcfaa54a442
+1,503,503#n044,client,C1,How have your life experiences shaped who you are today?,SHAPED,partial,6.67,False,4,11,61,97.56,86d09d2e22fd347c910c898a0dd008197a2168e7065b68c01d89137f7a42f0fc
+1,503,503#n044,client,C2,How have your life experiences shaped who you are today?,SHAPED,partial,6.67,False,4,11,45,87.51,6fb39e3192b587ce8bedd5f89d4611010c3be5be43244c1aae19cb7074bcbddc
+1,503,503#n044,client,C3,How have your life experiences shaped who you are today?,SHAPED,partial,6.67,False,4,11,70,96.3,2025ac76456f03092aebb48e9de30c35804f0c9816b085e702a5566cc1898c78
+1,503,503#n044,client,C4,How have your life experiences shaped who you are today?,SHAPED,partial,6.67,False,4,11,54,87.18,dd958b8e17f8c5aab859ea70824c9579841b481019b0ed0e9bcf21fec9b827cd
+1,503,503#n044,client,C5,How have your life experiences shaped who you are today?,SHAPED,partial,6.67,False,4,11,61,92.59,8145173261fb54a7c9b8441eee45e7c54884325bedd38b6c9568868c3c974342
+1,503,503#n044,client,C6,How have your life experiences shaped who you are today?,SHAPED,partial,6.67,False,4,11,71,96.55,bf279c624b16fcbb6cafa0231d255b84ae37893052a0b654b935a5a2c26601b3
+1,503,503#n052,analyst,C1,What advice would you give to someone starting out?,ADVICE,good,4.48,False,3,8,64,95.67,5c07d05684b76701b2c2cf415db7a9217ba17779a4d2c3e694423437646ceea0
+1,503,503#n052,analyst,C2,What advice would you give to someone starting out?,ADVICE,good,4.48,False,3,8,51,87.07,fa2cdb150b53e4bb3048809e44c0e4696e3d2f0c1ed1b644b00e501e4a37b129
+1,503,503#n052,analyst,C3,What advice would you give to someone starting out?,ADVICE,good,4.48,False,3,8,73,94.52,a5889ea0189a02c55550baf4ef10cbcfc45630bdfe0bdda4e54a483c77338e26
+1,503,503#n052,analyst,C4,What advice would you give to someone starting out?,ADVICE,good,4.48,False,3,8,60,86.75,97b4d240b309c013e207a19bcc7893a76f7e18c4e64b3f815c516a6a516d26d0
+1,503,503#n052,analyst,C5,What advice would you give to someone starting out?,ADVICE,good,4.48,False,3,8,63,90.09,4387f12a6d995706ff154a87febd1988323774e217c157a589a2f313b5a2c1e7
+1,503,503#n052,analyst,C6,What advice would you give to someone starting out?,ADVICE,good,4.48,False,3,8,74,94.74,cd90957ea6e77969eadbedd027b247612e0f440f2d4c393bbd01aed67cc73ba7
+1,507,507#n000,client,C1,Tell me a little about yourself.,,,10.39,True,8,7,88,74.2,0d3485fecbeb661a1a024d10df07ce01b3715bc8b51a2d04b5cca7aa71ed7b23
+1,507,507#n000,client,C2,Tell me a little about yourself.,,,10.39,True,8,7,59,76.46,8c78cb7bdbe958faf5b2c9097bbaa960de5164d94feef6efb382aa4ab6e48fd0
+1,507,507#n000,client,C3,Tell me a little about yourself.,,,10.39,True,8,7,97,78.43,57f2f65fe4381067fa378a57e3b849c793d8ffb1a86fd5f75a35a3abee28d82c
+1,507,507#n000,client,C4,Tell me a little about yourself.,,,10.39,True,8,7,68,78.85,6615761449f0e67f39b7e22a289da8f1ffa87cb0f57b5e6aa2b72b68ac0bf73b
+1,507,507#n000,client,C5,Tell me a little about yourself.,,,10.39,True,8,7,86,74.45,324bbcdfac634409c66bdb7e67437d77037590294873c0b71884ea332370dc51
+1,507,507#n000,client,C6,Tell me a little about yourself.,,,10.39,True,8,7,98,78.38,9f4482dd20fa59e7d1c1a426cc3affe468fc040cea98f230bcf162e4c2326d4f
+1,507,507#00,analyst,C1,Tell me about your work experience.,WORK,good,9.52,False,10,9,88,67.84,b80da146dad8aa2b78b95f509c3ba23fb4909efbf66ba66b4745c4518a35d9f0
+1,507,507#00,analyst,C2,Tell me about your work experience.,WORK,good,9.52,False,10,9,65,56.98,99bd94633fda8fba6ec6d6887462ce983affa699f2ef126fb67dea58f980f13b
+1,507,507#00,analyst,C3,Tell me about your work experience.,WORK,good,9.52,False,10,9,97,70.07,76c665c0534a40a45b5b6e5e55591002b48d99cec2f62125dbbcd73aa7d5c7e6
+1,507,507#00,analyst,C4,Tell me about your work experience.,WORK,good,9.52,False,10,9,74,60.56,7560a65964e93a642c06e5ae8b8baa1be8da9eaf6f7ce398459ab9cea18ac8f8
+1,507,507#00,analyst,C5,Tell me about your work experience.,WORK,good,9.52,False,10,9,90,66.36,105a0a34097d679ea7bcb1dca12307d1de42a0d1c885be280474d0e77df9e7bd
+1,507,507#00,analyst,C6,Tell me about your work experience.,WORK,good,9.52,False,10,9,98,70.26,db6e09b25e18552a2bd429699ffcceb82e7ea2b87706c5a072dc297e373f3ded
+1,507,507#n013,client,C1,Tell me about your work experience.,WORK,good,3.03,False,2,7,53,61.82,7fcb755fc2c3df45d8e2eef98f916a370a9a00f464fecd56a1add31e40a893a3
+1,507,507#n013,client,C2,Tell me about your work experience.,WORK,good,3.03,False,2,7,45,59.92,af929798ee96b74c3c8b8d12ba8cc51d5f27c1a53f0fb3d7c52af29118228e89
+1,507,507#n013,client,C3,Tell me about your work experience.,WORK,good,3.03,False,2,7,62,68.51,0ebdc6751dc27fc437a76230d84eadeab64e7471a57d754196cbe33a7f5bcb41
+1,507,507#n013,client,C4,Tell me about your work experience.,WORK,good,3.03,False,2,7,54,66.37,932cb6e0c62f21dc341dd6ab9fd22ef2e48b6f0093f5a491089e4c7700ad6663
+1,507,507#n013,client,C5,Tell me about your work experience.,WORK,good,3.03,False,2,7,54,61.93,fd7931c0ce3fa5cf549f20847cfd8aed51324c25868f77d30599711894d604b6
+1,507,507#n013,client,C6,Tell me about your work experience.,WORK,good,3.03,False,2,7,63,68.69,dd01fd5366b9e443e1fae768ee9c4cc9dc26ff8f31f9f183584472a01d4f87dd
+1,507,507#01,client,C1,What do you enjoy doing outside of work?,OUTSIDE,good,9.65,False,11,12,101,73.55,85cf5015c8a87806b07ae471c533186451286c444af4bdc0e17fc02e8d3b48c7
+1,507,507#01,client,C2,What do you enjoy doing outside of work?,OUTSIDE,good,9.65,False,11,12,69,53.05,9d7ce94545dac4f2c836aa400833a939575e0cfc84c6b1706a08cc83f3d9d9a2
+1,507,507#01,client,C3,What do you enjoy doing outside of work?,OUTSIDE,good,9.65,False,11,12,110,74.48,69a19d7c7835ca3a43fcbcff420656acbe887a89e069aacfc0876289a16ce5de
+1,507,507#01,client,C4,What do you enjoy doing outside of work?,OUTSIDE,good,9.65,False,11,12,78,56.98,a77e5d0a1c239b0493164ecccdf3221b554fb36b13aff7148704d673eb89ab0b
+1,507,507#01,client,C5,What do you enjoy doing outside of work?,OUTSIDE,good,9.65,False,11,12,99,63.68,d8bc7c0a664e125b5021d718e337ffc27f9cfe5a24c0a7c439e06c3fc3d26ef4
+1,507,507#01,client,C6,What do you enjoy doing outside of work?,OUTSIDE,good,9.65,False,11,12,111,74.74,2e155b1cfc299b4669aaeb6d8ac67a2ffc55f0208c58a7ae90645dbba06a2e16
+1,507,507#n055,client,C1,How have your life experiences shaped who you are today?,SHAPED,partial,7.38,False,9,21,128,89.82,a8ed29bd44aee9e38667021068ed0577714fb630425b26b7495b758546defb76
+1,507,507#n055,client,C2,How have your life experiences shaped who you are today?,SHAPED,partial,7.38,False,9,21,86,75.91,1942420a8c91e3de7e8ae0fb85478141b73d2a05c5b3ad4c121190cf168e0ceb
+1,507,507#n055,client,C3,How have your life experiences shaped who you are today?,SHAPED,partial,7.38,False,9,21,137,89.5,90569ec2528730a40c9190a89f9930e3350b9954559da3ad7f60cd401b425b7e
+1,507,507#n055,client,C4,How have your life experiences shaped who you are today?,SHAPED,partial,7.38,False,9,21,95,76.79,2ede9c0d5d4dc542b6414d3dfabd9b9648e6471a2575b3d2b64d9573dadaa083
+1,507,507#n055,client,C5,How have your life experiences shaped who you are today?,SHAPED,partial,7.38,False,9,21,130,82.31,85ab1b40e99e1ef0f1c99f32de99ddc0ba23f9ee3ab28b373e2f8d165fb6fb9d
+1,507,507#n055,client,C6,How have your life experiences shaped who you are today?,SHAPED,partial,7.38,False,9,21,138,89.6,2abe2035ab6cbb3a1857d75d72e4ee85146b8ccf0ca36a5a5cda4f41cf53bce5
+1,508,508#00,analyst,C1,What does good communication mean to you? Can you give an example?,COMM,good,1.03,False,1,7,69,69.09,493a37044a9e8a0c5e1658d17000fbb702afcbdce0a47087235e6f1fd0734ed0
+1,508,508#00,analyst,C2,What does good communication mean to you? Can you give an example?,COMM,good,1.03,False,1,7,60,59.92,d94bb8c7961ce038ab023d3e9615a725b7154fd59b36339c9053d161c99b3bf5
+1,508,508#00,analyst,C3,What does good communication mean to you? Can you give an example?,COMM,good,1.03,False,1,7,78,70.93,58e5c825ffcbc62e08a974386e17c58991b658dbeda4ef6eabf2f6ad3a78b8a5
+1,508,508#00,analyst,C4,What does good communication mean to you? Can you give an example?,COMM,good,1.03,False,1,7,69,63.19,6f5fa8ba241e5e3d4a90c9a71b75975576c4a4d1414fbb50ea80555c580464ec
+1,508,508#00,analyst,C5,What does good communication mean to you? Can you give an example?,COMM,good,1.03,False,1,7,69,65.2,5f9f8544f3b3f7befadd8cf8781ecf855c7194284241ff929139307a6883e7b2
+1,508,508#00,analyst,C6,What does good communication mean to you? Can you give an example?,COMM,good,1.03,False,1,7,79,71.38,f11a3e547a7080d14d868e48f16e8bc44c235a515f75400ef3ed8cc7f7c7865e
+1,508,508#n076,client,C1,What does good communication mean to you? Can you give an example?,COMM,partial,0.61,False,1,10,118,55.26,3efbb93c51eb953045ca216c15b0356b880085a0bb6a07d1447aee252156a560
+1,508,508#n076,client,C2,What does good communication mean to you? Can you give an example?,COMM,partial,0.61,False,1,10,105,53.38,b1ed725e6875f75e4ed66a16085dbd994e14b839fcf0abd8b4a741c8967b488e
+1,508,508#n076,client,C3,What does good communication mean to you? Can you give an example?,COMM,partial,0.61,False,1,10,127,58.78,1780800755cb0adc80d0f76cf9cce772ec189b0958183245ad45351379179edc
+1,508,508#n076,client,C4,What does good communication mean to you? Can you give an example?,COMM,partial,0.61,False,1,10,114,56.94,7dbe9f36dee15c1c926e9113292a14ff6d7cbd4250401660a793bdf98e7d284f
+1,508,508#n076,client,C5,What does good communication mean to you? Can you give an example?,COMM,partial,0.61,False,1,10,118,55.26,4bdd16168ee644dd7cf7dd0cc9731dc0b177766fe7d08f690648a9ff220f602a
+1,508,508#n076,client,C6,What does good communication mean to you? Can you give an example?,COMM,partial,0.61,False,1,10,128,58.94,52096bd8a30d213fc5b1d8d717a11ae7bc283d7f6af123fe47fecbd3a865ff57
+1,50fa,50fa#n011,client,C1,Tell me a little about yourself.,,,3.45,True,4,12,96,82.39,328f969c6d49a2a71b5917468a3ca27549bd020be54cfee8525aa9f5aeec7a70
+1,50fa,50fa#n011,client,C2,Tell me a little about yourself.,,,3.45,True,4,12,81,78.83,8a08035278a0123598ec6408b59d11615881d1e12814c8ba33a4bfefea22792b
+1,50fa,50fa#n011,client,C3,Tell me a little about yourself.,,,3.45,True,4,12,105,82.61,f9a192a623f659bd23788bbc2161eb4424159c4739babb6fc59cc31f10d06c7a
+1,50fa,50fa#n011,client,C4,Tell me a little about yourself.,,,3.45,True,4,12,90,79.49,3f05e0f434c533cf1b35c4fa2e50caa87a4d95a6e103efaee7afcfb7ed5f85c4
+1,50fa,50fa#n011,client,C5,Tell me a little about yourself.,,,3.45,True,4,12,97,82.63,5f8b3e62263a77b89cb0583335f2bec851af2d45642e465d54e19a1bc7f7b5ce
+1,50fa,50fa#n011,client,C6,Tell me a little about yourself.,,,3.45,True,4,12,106,82.83,257ba4e1cc6f24606b94f595d45f4a84fb317b0ab5c84881374f9191546af2e8
+1,50fa,50fa#05,client,C1,What do you enjoy doing outside of work?,OUTSIDE,good,1.28,False,1,6,69,95.56,6c142a83ace681b7c3695df370b068c7e62bdf252f2dd480aff051938565cd5c
+1,50fa,50fa#05,client,C2,What do you enjoy doing outside of work?,OUTSIDE,good,1.28,False,1,6,61,93.5,0500aca97feb23b83caeee1a0913f36628a8f6cab7189b8a0ba3089a46b05101
+1,50fa,50fa#05,client,C3,What do you enjoy doing outside of work?,OUTSIDE,good,1.28,False,1,6,78,94.45,c23fd1e63b6e6bc6c38e594598564faf54fc91e994b3d35d91f908523c5bd878
+1,50fa,50fa#05,client,C4,What do you enjoy doing outside of work?,OUTSIDE,good,1.28,False,1,6,70,92.6,04a8a4142e10f5fe7883ff935555d00b3ae25d9e5cdf6832843eb69bb7d4f45a
+1,50fa,50fa#05,client,C5,What do you enjoy doing outside of work?,OUTSIDE,good,1.28,False,1,6,70,95.77,0c996a263fc7869e797dbaa147e1c632b8608dbaeea6a750ad6c65862e5aa881
+1,50fa,50fa#05,client,C6,What do you enjoy doing outside of work?,OUTSIDE,good,1.28,False,1,6,79,94.65,a93ad73129e2bc772a2b39892cba0aa3d0e85c7eb3701fed70adcb654c8275b8
+1,50fa,50fa#n162,analyst,C1,Tell me a little about yourself.,,,7.09,True,10,11,127,86.38,eb62552f11597c4e4514a90edaa7078b627667843edbae718deee992095ed578
+1,50fa,50fa#n162,analyst,C2,Tell me a little about yourself.,,,7.09,True,10,11,102,80.48,485334826b3d6f7d5e9f25abef35b87f864ee30ecc81d6b58bb271aa8ff23bad
+1,50fa,50fa#n162,analyst,C3,Tell me a little about yourself.,,,7.09,True,10,11,136,86.28,b0c4bb38ec17b4049029849af37a7bef04d2cdb6456afe78226bd4462a375167
+1,50fa,50fa#n162,analyst,C4,Tell me a little about yourself.,,,7.09,True,10,11,111,80.84,bf2a20bbd11204104c312bd3e7c6ed599d7d2434c2a04559809e0c0c433be24c
+1,50fa,50fa#n162,analyst,C5,Tell me a little about yourself.,,,7.09,True,10,11,127,84.54,e8c84420dcfd1bddfbf7258b63e239dfe4ce2754ccc847c2cfd739a7e10506fd
+1,50fa,50fa#n162,analyst,C6,Tell me a little about yourself.,,,7.09,True,10,11,137,86.41,0d49d5102836c4a287ee92fbc3216f56cec2cb440ce3276248b70c7f88086f41
+1,50fa,50fa#n191,client,C1,Tell me a little about yourself.,,,2.79,True,5,8,167,100.98,10459c88413d62a699fc829521d3033b50bbed0ceb95bbb7355d7ff984351add
+1,50fa,50fa#n191,client,C2,Tell me a little about yourself.,,,2.79,True,5,8,150,98.96,c0a229c44272bdff80505d0f6b55389ae9db5648d1d80963548aa9b6ebe78c0f
+1,50fa,50fa#n191,client,C3,Tell me a little about yourself.,,,2.79,True,5,8,176,100.21,3fa9fa9d2e0dde97135507bb0a3b428144dc732e5bacb7da7f8f14c88c522a4d
+1,50fa,50fa#n191,client,C4,Tell me a little about yourself.,,,2.79,True,5,8,159,98.19,b71699694a78acf120c662aa6f615b750ea7bab401bd924fd8520d2093e38eb5
+1,50fa,50fa#n191,client,C5,Tell me a little about yourself.,,,2.79,True,5,8,164,99.71,81e125f311e8e0843af93a8b1a09e463bbff622486f6e1ece8e9898f4a687afd
+1,50fa,50fa#n191,client,C6,Tell me a little about yourself.,,,2.79,True,5,8,177,100.27,43f7a5f9069a56dee346e39e752054c7a3986490b4a123df7b26ff3a9fb3dc43
+1,50fb,50fb#n001,analyst,C1,Tell me a little about yourself.,ABOUT,good,10.53,False,6,15,77,94.93,fd63c367fe2d02a2f2c4458013141563b480cfdde8ab9aa3c1c9e36e717a699d
+1,50fb,50fb#n001,analyst,C2,Tell me a little about yourself.,ABOUT,good,10.53,False,6,15,44,89.8,f2e868f5b54dbf5b92637915b32f59ecf49a3e1a0f6538d5af5fd53700c1e36b
+1,50fb,50fb#n001,analyst,C3,Tell me a little about yourself.,ABOUT,good,10.53,False,6,15,86,94.03,a195e1c48ddf2b71d2bbfe6649af2ba55f14497b4c05500a4e7fecdfa1eed2fb
+1,50fb,50fb#n001,analyst,C4,Tell me a little about yourself.,ABOUT,good,10.53,False,6,15,53,89.01,a4f638b395c19afe29133254567126c7dcf84fc14429b70e9df752079c35f821
+1,50fb,50fb#n001,analyst,C5,Tell me a little about yourself.,ABOUT,good,10.53,False,6,15,73,94.82,e699037d61417c4c8768c698f571b0c84c697a24bd675b8e761c9a1e58dc9a2a
+1,50fb,50fb#n001,analyst,C6,Tell me a little about yourself.,ABOUT,good,10.53,False,6,15,87,94.06,5b4d71675af530d20d59be42b9fcb3c98fbf3ab76229e06170c331863e630cac
+1,50fb,50fb#n007,client,C1,Tell me a little about yourself.,,,15.58,True,12,25,119,91.75,64433e63435e5904c8049f138ef80d5d22c277dfa199cea6f0048e96c0d20e9f
+1,50fb,50fb#n007,client,C2,Tell me a little about yourself.,,,15.58,True,12,25,54,77.07,0d9e15f348d476163672d095665275cc796b7cd130c470642f991b0d94c1a0b1
+1,50fb,50fb#n007,client,C3,Tell me a little about yourself.,,,15.58,True,12,25,128,91.4,36badf68af26388a8a28187f556e25aca156c310ba1bcc0c1cb5b9cb54368d93
+1,50fb,50fb#n007,client,C4,Tell me a little about yourself.,,,15.58,True,12,25,63,78.19,7031e55dceaaf981e312b5e6d550449b7a013dbd2b88a57678d8749d0f336ec8
+1,50fb,50fb#n007,client,C5,Tell me a little about yourself.,,,15.58,True,12,25,115,85.86,90082d5385b8fa73f15474311bd38dc9299bcb74be6a8bd7eea7ea6e72dfe1e0
+1,50fb,50fb#n007,client,C6,Tell me a little about yourself.,,,15.58,True,12,25,129,91.43,0de0fdc869d4465fbfd514a8e24c56d73125fd6b853a0aa8a0c445b32b641319
+1,50fb,50fb#n035,analyst,C1,Tell me a little about yourself.,,,1.35,True,1,9,81,81.77,5a8631cdc9c291aff7fdaf9b4b8b3c2260fc53a3574c1b56ed33cb987203de63
+1,50fb,50fb#n035,analyst,C2,Tell me a little about yourself.,,,1.35,True,1,9,53,77.96,c9ec8b964aeaeb4b13f8066b1586e8ee91c761c1f05afd79b2724663d2a6fd63
+1,50fb,50fb#n035,analyst,C3,Tell me a little about yourself.,,,1.35,True,1,9,90,82.57,302fea5efdf3e100d2dadf78d4d789b29fb66ea7711461784a2ed0e16346d54f
+1,50fb,50fb#n035,analyst,C4,Tell me a little about yourself.,,,1.35,True,1,9,62,79.0,2a9322306c907ec0784077a04c2f16a9844c0177257419ec0f5f9709b1d41f2a
+1,50fb,50fb#n035,analyst,C5,Tell me a little about yourself.,,,1.35,True,1,9,82,81.86,62fbc082ed5dff16e4a8f103c6ad2e4dbb9ca4a5bafef70bae12dcf1a2ce287f
+1,50fb,50fb#n035,analyst,C6,Tell me a little about yourself.,,,1.35,True,1,9,91,82.67,6de47a614499aebb511265671016f5994a1f135609df5f26769c1b39de167a80
+1,50fb,50fb#n041,client,C1,Tell me a little about yourself.,,,1.22,True,1,17,86,82.15,8db3eca5855c52585962c05b696961c8b2987dc1ff6094903f681aaf1ed88853
+1,50fb,50fb#n041,client,C2,Tell me a little about yourself.,,,1.22,True,1,17,59,77.28,d07867b8f95cdaf2b7c3979b22a5fb41d566d2820ed4a4eb90789f8f61aab2a3
+1,50fb,50fb#n041,client,C3,Tell me a little about yourself.,,,1.22,True,1,17,95,83.01,640fcf30fd8a2fdbee4c22d358b596f728243a631e32c451122996e115458d1a
+1,50fb,50fb#n041,client,C4,Tell me a little about yourself.,,,1.22,True,1,17,68,78.38,8fae1455b924a97b8ef9fcd7fc32aad9c64c78d324a19e571c4aff4b5c59dd9f
+1,50fb,50fb#n041,client,C5,Tell me a little about yourself.,,,1.22,True,1,17,86,82.15,28bd027b262dc3bdbfa57354e0478fbe0ac43ae32227900d8cf214abda386ad0
+1,50fb,50fb#n041,client,C6,Tell me a little about yourself.,,,1.22,True,1,17,96,83.08,dd58aac4a08e767da3ef610af875416b9fbad103002241bcb4cceb43f43f69cc
+1,50fb,50fb#n064,analyst,C1,Tell me a little about yourself.,,,2.82,True,2,12,81,98.35,c67e64773f7cd20c856a512e03000a608e361cf6b9ed94831d7c5b9fea0daeeb
+1,50fb,50fb#n064,analyst,C2,Tell me a little about yourself.,,,2.82,True,2,12,56,93.89,489d8ba27ca0d8bcf205c2c9b598c7c3bd1b9807ad4106f0887709d50c01590f
+1,50fb,50fb#n064,analyst,C3,Tell me a little about yourself.,,,2.82,True,2,12,90,97.01,5f8c564c4e613d128623d27a2077c2d6f85e64dda9b85d1e73d16e7fce82ec34
+1,50fb,50fb#n064,analyst,C4,Tell me a little about yourself.,,,2.82,True,2,12,65,92.81,56585606b847b4dd6c971ae4c7dfe486b434ad4d50394c48d76fda6bf7df7d4e
+1,50fb,50fb#n064,analyst,C5,Tell me a little about yourself.,,,2.82,True,2,12,80,98.25,94842b55ba29292085d001c2d8c11bef6b48a50447f4f1886331f667826c5786
+1,50fb,50fb#n064,analyst,C6,Tell me a little about yourself.,,,2.82,True,2,12,91,97.1,9d8b2f8a4d3c2cc4b82059fa19d9d22552e6895a74057c80d0d2e1350aa0d07d
+1,54f,54f#n002,client,C1,Tell me a little about yourself.,,,16.0,True,8,2,63,98.15,25626fed7127d9b311e87ce5f91913ab480a18836f49d167fcd7b0d45c56dae3
+1,54f,54f#n002,client,C2,Tell me a little about yourself.,,,16.0,True,8,2,40,87.55,0a31a71c2cb0e7bada323318600efd8521eebeb0b353e46cb7bf04a305914829
+1,54f,54f#n002,client,C3,Tell me a little about yourself.,,,16.0,True,8,2,72,96.52,c81a46705c81e132f65cf2d74782d5de79c4084804204e3b67f1032d6e77ff06
+1,54f,54f#n002,client,C4,Tell me a little about yourself.,,,16.0,True,8,2,49,87.36,562ad9327c707c50c8cbc637f74c9bcbc3306aca86b8ab7ad71a06c862151d66
+1,54f,54f#n002,client,C5,Tell me a little about yourself.,,,16.0,True,8,2,61,87.73,58097afd2d7e468008e29f1cc268c56fcf6ada8110ac1d636156717e7d0e82f2
+1,54f,54f#n002,client,C6,Tell me a little about yourself.,,,16.0,True,8,2,73,96.58,c43113943483ea4d60d40b452268ecfe3f02d810b09a11bd84a7bca97f588271
+1,54f,54f#n022,analyst,C1,Tell me a little about yourself.,,,10.75,True,10,9,105,93.21,bcc51b31a8c7d857d7de56867aa41ec7379adcb793e701e64f4baf8059d37f00
+1,54f,54f#n022,analyst,C2,Tell me a little about yourself.,,,10.75,True,10,9,71,87.01,d7526393435bee4af934f80e8c833e1857b259b839f519873aa8eaa0600f1622
+1,54f,54f#n022,analyst,C3,Tell me a little about yourself.,,,10.75,True,10,9,114,92.56,d1671d76b857a7f184d37eb1f7cba22c80bef50ea0de86d44b62bf5829e559c6
+1,54f,54f#n022,analyst,C4,Tell me a little about yourself.,,,10.75,True,10,9,80,86.78,1ca9aab2599c2e09acb584b8a203f6f6ad6bfc7834ec0b673851174d8f6fb315
+1,54f,54f#n022,analyst,C5,Tell me a little about yourself.,,,10.75,True,10,9,94,90.51,86a1eb5e463ff7370e4f3c91c3c27db091f4c026425812c74e48bd5e7137004d
+1,54f,54f#n022,analyst,C6,Tell me a little about yourself.,,,10.75,True,10,9,115,92.65,8da43f7b1f5b2f009ac613f3f698719d44d06957f58a79f2edfe51a1616538db
+1,54f,54f#n038,client,C1,Tell me a little about yourself.,,,11.34,True,22,17,200,91.36,26f88dcc4255a1d175f5ac744daccb7a9d6752dce78272eabd62ec6b899473f3
+1,54f,54f#n038,client,C2,Tell me a little about yourself.,,,11.34,True,22,17,144,84.26,65194d8b06b1870c5acb78823defda067c49692bd5e601eebe2666b455a51435
+1,54f,54f#n038,client,C3,Tell me a little about yourself.,,,11.34,True,22,17,209,91.08,db4df94aa81df16f8b6b278ae54f0d4dd80eab318ba92beb0cf179da55823c45
+1,54f,54f#n038,client,C4,Tell me a little about yourself.,,,11.34,True,22,17,153,84.3,be9d6347ad1f7b4239362680d267e4bf375cf278643dea051370f5e0298f329e
+1,54f,54f#n038,client,C5,Tell me a little about yourself.,,,11.34,True,22,17,194,88.62,59aa11fb0cf46a74cedbd967bece979862bce93f0980a683e1c4632792e1523a
+1,54f,54f#n038,client,C6,Tell me a little about yourself.,,,11.34,True,22,17,210,91.15,bb0bca6cd089179a0b9ddd08b65d5dfc45e8f7b5baeb77c705e477d910e6a6b3
+1,54f,54f#n056,analyst,C1,Tell me a little about yourself.,,,9.8,True,10,8,92,83.19,c2821a63dd58cafc98f444f31d21b511e32821d69b9d3ffae5db526f6d76cf39
+1,54f,54f#n056,analyst,C2,Tell me a little about yourself.,,,9.8,True,10,8,70,75.67,896a76709eb375406445cf2f4d85de3cbdb07ea9b2c77d6f5204d48edf6c9b38
+1,54f,54f#n056,analyst,C3,Tell me a little about yourself.,,,9.8,True,10,8,101,83.36,f521a752ae8d3639d1e6249af337eb12696c4abaf0fe3b4b8fe4a5712d572202
+1,54f,54f#n056,analyst,C4,Tell me a little about yourself.,,,9.8,True,10,8,79,76.74,e5f7743dbab499e81a4edc6576d5651139644028afa7f06639efbada9f22e723
+1,54f,54f#n056,analyst,C5,Tell me a little about yourself.,,,9.8,True,10,8,91,81.29,1ff1f164243e3fda590987a790c20cbb269173d67770fc9ce258ef60ec83affc
+1,54f,54f#n056,analyst,C6,Tell me a little about yourself.,,,9.8,True,10,8,102,83.58,81a0e2fac409b0f21b573563e5e15d9823f3c68a86a431842ec0235a2c534eab
+1,54f,54f#n066,client,C1,Tell me a little about yourself.,,,7.83,True,9,12,120,91.81,f22672d28ebef96aedf9f9b4c2bacc7ef6f2144bc3a90026c5c83ef8bad8c451
+1,54f,54f#n066,client,C2,Tell me a little about yourself.,,,7.83,True,9,12,84,84.92,f98b4c43623ba23c7f034b7942a6a1e9a9ffb0d4731857546a2fe1d4442aad95
+1,54f,54f#n066,client,C3,Tell me a little about yourself.,,,7.83,True,9,12,129,91.35,04e56b09f2dbe26c34ff167df0df9e16e8140d49a24ba7765f77cd7bb16392e5
+1,54f,54f#n066,client,C4,Tell me a little about yourself.,,,7.83,True,9,12,93,85.01,fb0d5d997fff6fcf889944a0ad084e662b3f170bf3ab5cf21850740d522b1bcb
+1,54f,54f#n066,client,C5,Tell me a little about yourself.,,,7.83,True,9,12,114,89.48,472b75a62ae80e9faa12664126b8f0aa53d0c47f0a1a201f4b95d00d99ef7e25
+1,54f,54f#n066,client,C6,Tell me a little about yourself.,,,7.83,True,9,12,130,91.48,6adbc1d2d75b4ab64d1eb602d6abef7940c9fa157cf1c8ce5f21125ed8f00530
+1,54m,54m#n033,client,C1,Tell me a little about yourself.,,,3.45,True,3,4,79,91.39,3c8d6d7ff501000f4fe363e61ba68e23e1f6e9fc00c38f7fcfcec714ca805af4
+1,54m,54m#n033,client,C2,Tell me a little about yourself.,,,3.45,True,3,4,68,64.09,80e32e3b825684f06423d6e3b93788123c38413ea42c16545cb01a2c96fda6ec
+1,54m,54m#n033,client,C3,Tell me a little about yourself.,,,3.45,True,3,4,88,90.76,9be3f888f0252cc9a7dafbebd3eaa323a01be3fd043ef5d0f9c11b305d3e41f9
+1,54m,54m#n033,client,C4,Tell me a little about yourself.,,,3.45,True,3,4,77,72.01,b710d315995dd7fcb3c3891c1924abc55b4f9bc0871efba06d29452b1c3c1481
+1,54m,54m#n033,client,C5,Tell me a little about yourself.,,,3.45,True,3,4,80,60.49,6ed3024cf53e20e0ec5c1a474e7f9e923f86ff645bf6a2dbb1e7e9f28caadcea
+1,54m,54m#n033,client,C6,Tell me a little about yourself.,,,3.45,True,3,4,89,90.94,5d1b7520e6dc6987f6b48b0729f7299299d1bb65f211ea74007ae884c3c9ab1c
+1,54m,54m#n045,analyst,C1,Tell me a little about yourself.,,,7.41,True,6,6,75,89.03,687321f24c4de950acd2b2f3c4946ee5122c98f503ea19008898623a72d1fbda
+1,54m,54m#n045,analyst,C2,Tell me a little about yourself.,,,7.41,True,6,6,60,62.18,a7c2c1c3641936af39e90af8b5f591176f42308634694549af18ff680a493cdb
+1,54m,54m#n045,analyst,C3,Tell me a little about yourself.,,,7.41,True,6,6,84,88.59,e53b42519977b019294621271946e994b31fb0e5a2073dc1bf7071417bf45686
+1,54m,54m#n045,analyst,C4,Tell me a little about yourself.,,,7.41,True,6,6,69,69.46,d18dd68638504d3c9f941767305aa1c33538c6a3f7cfe063ce296d0444515159
+1,54m,54m#n045,analyst,C5,Tell me a little about yourself.,,,7.41,True,6,6,76,60.29,0fdda3c881ed2cc52fcc7f5f6b44226a9ca75c320f176fe14207bae05742a176
+1,54m,54m#n045,analyst,C6,Tell me a little about yourself.,,,7.41,True,6,6,85,88.76,7b3141b1d053eafb356286a37aa9e66622ab34250c32eb858a221b13d2121661
+1,54m,54m#03,client,C1,What does good communication mean to you? Can you give an example?,COMM,good,3.83,False,8,15,176,86.67,a1c1348e84fa2184aca76594a8017027a4532570b9de899cd511f9d693533930
+1,54m,54m#03,client,C2,What does good communication mean to you? Can you give an example?,COMM,good,3.83,False,8,15,148,77.98,f4b298efedc610e6939c9cb1e208baa403af02338f22aa7b5fc7a13c262b4b00
+1,54m,54m#03,client,C3,What does good communication mean to you? Can you give an example?,COMM,good,3.83,False,8,15,185,86.64,65710adb4a53546fe74b4cc4b1d9e46078a1fb0b2bd0c486d8057db33debc3cc
+1,54m,54m#03,client,C4,What does good communication mean to you? Can you give an example?,COMM,good,3.83,False,8,15,157,78.37,cd8d3fc62ab88e5ff0d1cf742dd39006d253f15df58b39e20097b6f02a4799bd
+1,54m,54m#03,client,C5,What does good communication mean to you? Can you give an example?,COMM,good,3.83,False,8,15,174,81.54,306b5ad924562f9c2c7f321c7f4c68151d7bef1ef22326f7b8d44d5c4c489587
+1,54m,54m#03,client,C6,What does good communication mean to you? Can you give an example?,COMM,good,3.83,False,8,15,186,86.77,925fe9718bb12a64fa692da0f4e98befc68d71de0918be40221a404f0c26ff7c
+1,54m,54m#n076,analyst,C1,How have your life experiences shaped who you are today?,SHAPED,good,2.42,False,3,18,121,88.93,6471a376b54ecc9b3f69c74f46d5e51f591ac1051326db97b50b1c3f07f53531
+1,54m,54m#n076,analyst,C2,How have your life experiences shaped who you are today?,SHAPED,good,2.42,False,3,18,95,80.34,301b2a05c6818c175f246b1a45dee6a6db70b46548592ef1408a9d7b31a076c9
+1,54m,54m#n076,analyst,C3,How have your life experiences shaped who you are today?,SHAPED,good,2.42,False,3,18,130,88.66,90dfc9aeb63a1617ba3b59715068b2e43f9a73a04e3176d426f83838e959b051
+1,54m,54m#n076,analyst,C4,How have your life experiences shaped who you are today?,SHAPED,good,2.42,False,3,18,104,81.12,79ffd514be7c38ea87c0b9ed3fca6cefe6b29420b3ba55cea57c36edfb5abfb6
+1,54m,54m#n076,analyst,C5,How have your life experiences shaped who you are today?,SHAPED,good,2.42,False,3,18,122,78.71,1157d72e806e04fc280fc9e9e782754bf2b1c56b0e6e41298afd57ba0f682959
+1,54m,54m#n076,analyst,C6,How have your life experiences shaped who you are today?,SHAPED,good,2.42,False,3,18,131,88.76,b71e5565dcb3b6af0377aeaa1c974603330b550177c7dab784d15e662cec86fd
+1,57m,57m#02,client,C1,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,2.94,False,3,1,77,75.84,c14cb7a03f61a83f37ae8bba9dd27a933bc6227fd1eb9737543235f4e7a961ad
+1,57m,57m#02,client,C2,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,2.94,False,3,1,74,52.67,4c509fc1b1f40a7d0ad368aa169337f5eb503fd991d38cda6bb9d649ff8b6019
+1,57m,57m#02,client,C3,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,2.94,False,3,1,86,77.19,61686ee006398ca550ed6afda9d1e090dc4e50c998a89a58a3a7ed489f3d8378
+1,57m,57m#02,client,C4,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,2.94,False,3,1,83,62.56,a70b01e94712f1bb68869e0378b077c52fcaa248050f0882361470a6b0a3480d
+1,57m,57m#02,client,C5,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,2.94,False,3,1,78,52.28,31c46398a7b435b8334bbcc1f5c6a5f92abc106965f0ddceb89d9e8d98e21aaa
+1,57m,57m#02,client,C6,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,partial,2.94,False,3,1,87,77.37,45c19678153ae0f658c13e12196958ecc87991eaf47ccc71c48eb3dd1c536cc3
+1,57m,57m#04,analyst,C1,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.91,False,7,3,141,83.21,a147efeb90cc62cf22d6b63d344ae17cb06b2d4eec87a73945193d729dc209f1
+1,57m,57m#04,analyst,C2,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.91,False,7,3,131,74.62,b14d9c7de1ea97c3ac1a16b9384f135310eb2bed02d60de5a3b0b8c3175489dc
+1,57m,57m#04,analyst,C3,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.91,False,7,3,150,83.32,30c696c4df92f9d3286ba5708a38f9adf372a3588240bbf4cbd38d25d1d8076e
+1,57m,57m#04,analyst,C4,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.91,False,7,3,140,75.63,f3d158a3593c6bc679fb0d68976be13c290a1e79948caef17f426b43630e8012
+1,57m,57m#04,analyst,C5,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.91,False,7,3,144,75.77,3e214489f63814f0eb09b8b3b509c04e4bc9ca48d0cda96b2b10d21ea5dc48b1
+1,57m,57m#04,analyst,C6,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.91,False,7,3,151,83.44,b5d8f99c71711413d6f35edc0bebbf10ab2a2cbefea69f624260301b0cf1ae70
+1,57m,57m#05,client,C1,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.45,False,3,3,98,90.46,597c64befc0e89aad573301888033eb923cf3b4fd00b7cc89cf6d4fa35778451
+1,57m,57m#05,client,C2,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.45,False,3,3,72,80.25,172f0123cfd515536c67291706d9c2eefa9afb87f7d85f42db4320d1748e2118
+1,57m,57m#05,client,C3,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.45,False,3,3,107,90.03,7058bf68e604f39688e502f66e846a04e38cca3f20c075c46e692c64746ab873
+1,57m,57m#05,client,C4,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.45,False,3,3,81,82.88,23c6286be7a396fa6ea72af8ff9ebac3116c2ee058532170b11ebbad7aa56fa1
+1,57m,57m#05,client,C5,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.45,False,3,3,98,68.36,dd447d39cceb144f132c53e7dfbb4c05bfa9dfa269dc4ee2a65bded7582d0c87
+1,57m,57m#05,client,C6,Tell me about a challenge you have faced and how you handled it.,CHALLENGE,good,3.45,False,3,3,108,90.12,4f11797d9fdb9d7e52b0e7251dc74c1b30d3ab18f74fe11612bafbf4db31ba64
+1,57m,57m#n059,analyst,C1,What does good communication mean to you? Can you give an example?,COMM,good,4.17,False,3,2,59,69.98,54f11c9014ef27a006bea5914cda4117918a5f4316c8e25fc39586f3d8a9b8be
+1,57m,57m#n059,analyst,C2,What does good communication mean to you? Can you give an example?,COMM,good,4.17,False,3,2,47,65.31,873646bc532fab67b2752844f3aa3185ea6374b9611cb5083649d9152c8fa964
+1,57m,57m#n059,analyst,C3,What does good communication mean to you? Can you give an example?,COMM,good,4.17,False,3,2,68,72.35,2d8145acd60daac2e658e657f279d1c64254e6c410d830b84e333f7de5de51ef
+1,57m,57m#n059,analyst,C4,What does good communication mean to you? Can you give an example?,COMM,good,4.17,False,3,2,56,68.57,e6fef10d624d323b2f1ed4912f8cbf49c5a56d3dcbb37a5823ea3e12fa08555b
+1,57m,57m#n059,analyst,C5,What does good communication mean to you? Can you give an example?,COMM,good,4.17,False,3,2,59,69.98,f455457aa2a0cbf464b7b8232c750c2ee006949562a2a300e0184ac125ac266e
+1,57m,57m#n059,analyst,C6,What does good communication mean to you? Can you give an example?,COMM,good,4.17,False,3,2,69,72.67,dc2b1172f528ee346f1a3b8aff97c7b71aa8329ba05ad113b56a78af1a6d3820
+1,57m,57m#n071,client,C1,How have your life experiences shaped who you are today?,SHAPED,partial,2.01,False,3,2,122,83.18,fa914046bfa08c333007df5d68dc36b96982523e1e0178903fb3c391ada1f40e
+1,57m,57m#n071,client,C2,How have your life experiences shaped who you are today?,SHAPED,partial,2.01,False,3,2,117,75.35,d54234e9249f363a751e0212c31f557bc6916ab57de6dd6bc28232887abfbb56
+1,57m,57m#n071,client,C3,How have your life experiences shaped who you are today?,SHAPED,partial,2.01,False,3,2,131,83.57,5b61ef37696bb10fb232048bbb912b1b5da365c470c46831cb6a4980a3de799f
+1,57m,57m#n071,client,C4,How have your life experiences shaped who you are today?,SHAPED,partial,2.01,False,3,2,126,77.42,6436eef00f91673874721aee46aa093975aca87b7cba115a79b1a3614251b706
+1,57m,57m#n071,client,C5,How have your life experiences shaped who you are today?,SHAPED,partial,2.01,False,3,2,122,75.28,3e746a34e0229f76c381981e664749784580564ac47c8cbee8949230d3697089
+1,57m,57m#n071,client,C6,How have your life experiences shaped who you are today?,SHAPED,partial,2.01,False,3,2,132,83.63,de30376da6f217e8be9ccd6383612456a1c7f7f9685240e9fdaf1c42d59e6442
+1,57m,57m#n089,analyst,C1,Tell me a little about yourself.,,,3.64,True,4,1,97,98.21,1327a30b828e5efefdbac55b01348bcaf0816af581960d4b05fe906266b73103
+1,57m,57m#n089,analyst,C2,Tell me a little about yourself.,,,3.64,True,4,1,94,91.93,b2bae34152d756c5b88b6b884054b2040f0dedec8af9950077c2a5f582b7823f
+1,57m,57m#n089,analyst,C3,Tell me a little about yourself.,,,3.64,True,4,1,106,97.11,2335307807188fa23a569faf7b5606c1c9a213a8e26cb20b512d900c771df62f
+1,57m,57m#n089,analyst,C4,Tell me a little about yourself.,,,3.64,True,4,1,103,91.69,add9f38c779eb1d2a89d7dbf0d4adc6e67cbe141ae50327bb0d9ce1a2aef3e8f
+1,57m,57m#n089,analyst,C5,Tell me a little about yourself.,,,3.64,True,4,1,99,91.81,645271d0f62b355824177aec6bc79bf132ad0e96a16f8045a0d87632b0ce02f1
+1,57m,57m#n089,analyst,C6,Tell me a little about yourself.,,,3.64,True,4,1,107,97.14,b69711d2aa8927f149d6a4d073dec805807a3a03425c16a40ec5688dc2363825
+1,60m,60m#n007,client,C1,Tell me about your work experience.,WORK,good,3.7,False,2,1,47,88.71,82c627c3743bcce57c5d4b5d410a7ea2f8bde5d7feed934d24bccbe353fb2b3e
+1,60m,60m#n007,client,C2,Tell me about your work experience.,WORK,good,3.7,False,2,1,42,87.41,9463b981401c569f530c4970c9c03a94c8f2ffac09f7479eee70e58600b7a053
+1,60m,60m#n007,client,C3,Tell me about your work experience.,WORK,good,3.7,False,2,1,56,88.21,1e81617233adb50ca3af78380736f826f9c917c7cc91a62b4fff822bb820a086
+1,60m,60m#n007,client,C4,Tell me about your work experience.,WORK,good,3.7,False,2,1,51,87.0,3689f819f85e707d68c70cce85f83b015f1ff87dcfd7826c368eef2588656db6
+1,60m,60m#n007,client,C5,Tell me about your work experience.,WORK,good,3.7,False,2,1,47,88.71,b83ca6e5a36717bbc08ad1b4d0cfdafb0e88bb4df3e183dc7e3c6f8059fab1f2
+1,60m,60m#n007,client,C6,Tell me about your work experience.,WORK,good,3.7,False,2,1,57,88.4,31c170e097a80759e46ed53e1e40e07920a34a1c41f2a92cb0f5eabf8a82ecca
+1,60m,60m#n064,analyst,C1,Tell me a little about yourself.,,,1.1,True,1,2,77,87.66,c5121e386c8115aa9c5311c0ada6bfdbce0d37ad0e5a89925ada68073a36cb8d
+1,60m,60m#n064,analyst,C2,Tell me a little about yourself.,,,1.1,True,1,2,69,86.51,e1950c8ed35f3adffe811dcaa0430b1a7e5f5ce82c10ecc693231584abd6c7bd
+1,60m,60m#n064,analyst,C3,Tell me a little about yourself.,,,1.1,True,1,2,86,87.42,0498265f9de369281f57da05d5bf7019241a939edcbe583b667edbb7beafb145
+1,60m,60m#n064,analyst,C4,Tell me a little about yourself.,,,1.1,True,1,2,78,86.32,5ca7913a306c4f7c6d57a8be49495c1f101ff93a89a23548192d303205de19d3
+1,60m,60m#n064,analyst,C5,Tell me a little about yourself.,,,1.1,True,1,2,78,85.22,2136f128bb15437b3f9921de674bc4a8dcfcb1bfc58300f3e7b6700adf162465
+1,60m,60m#n064,analyst,C6,Tell me a little about yourself.,,,1.1,True,1,2,87,87.65,2a8ab6eb6879c8a959c3ff084dff8ad3c4444b88770e0ff11d214e686a4f0971
+1,60m,60m#n079,client,C1,Tell me a little about yourself.,,,1.34,True,2,1,122,87.4,270937f7cbf187e00d05fed1167979cd3db74094433ef8ae5f6a9c0ecc4e66d3
+1,60m,60m#n079,client,C2,Tell me a little about yourself.,,,1.34,True,2,1,116,87.46,a78a15c264ab0f3b12ead054af79e70973d20a0c51d7704d45372806d6acfc23
+1,60m,60m#n079,client,C3,Tell me a little about yourself.,,,1.34,True,2,1,131,87.26,0acda8e530fdf065764276fcb65ab65bd1904214076c80c585ae6868bf3e29a3
+1,60m,60m#n079,client,C4,Tell me a little about yourself.,,,1.34,True,2,1,125,87.3,6ec34b0555d4b323a4d4d4517b48206ecce17d4d1c52a04301ba2dbcc79c9f65
+1,60m,60m#n079,client,C5,Tell me a little about yourself.,,,1.34,True,2,1,122,87.4,31ffa0ab39952281e21ed8ed68dec28100abf1b59619935df2cc9b7cc48e128f
+1,60m,60m#n079,client,C6,Tell me a little about yourself.,,,1.34,True,2,1,132,87.36,48789e41b508eff89850d9518b59360780815f16297db72d3e0607f7bdd4a552
+1,60m,60m#n115,analyst,C1,Tell me a little about yourself.,,,1.19,True,1,2,71,89.97,bb5269599ad231b1abdf05d1b43c095a4da5ebef6c4fd75813c59b8d1a577a70
+1,60m,60m#n115,analyst,C2,Tell me a little about yourself.,,,1.19,True,1,2,67,89.44,2a4f8be6b6fa7b95573d28226c7049d30511211f947eea0f9fce8d222e0cd62a
+1,60m,60m#n115,analyst,C3,Tell me a little about yourself.,,,1.19,True,1,2,80,89.49,c2a5c56642b935f7ca8ec7eec12c06b2043140ce6856f60a84880226a8692dff
+1,60m,60m#n115,analyst,C4,Tell me a little about yourself.,,,1.19,True,1,2,76,88.95,636e7e7550f651143218e22659a182280de6550087d041731adbbd1c567d4c6b
+1,60m,60m#n115,analyst,C5,Tell me a little about yourself.,,,1.19,True,1,2,71,89.97,b490755d5bec9cab686a78fe00ef1fda04c1495ff4689c8e0e1cf69ea19f67f2
+1,60m,60m#n115,analyst,C6,Tell me a little about yourself.,,,1.19,True,1,2,81,89.6,da68480f91fb3c62e6b6a76a13b50590aa99287c6d76d33db84d30ff746cff1f
+1,62f,62f#n007,analyst,C1,Tell me a little about yourself.,,,10.96,True,8,1,66,95.66,18c5040a572c4e096390e558e052c961390f540bfc5ddf6576cbe82c0adb6285
+1,62f,62f#n007,analyst,C2,Tell me a little about yourself.,,,10.96,True,8,1,57,86.92,057bc6abd30478783d5a0f052037a6515cb3bc7f4abf1a79002301b16c17ad93
+1,62f,62f#n007,analyst,C3,Tell me a little about yourself.,,,10.96,True,8,1,75,94.6,3732f56958cd91b2f3f5817ac2e210b4d491ed831dd7c1aea6308ef6a2f87b86
+1,62f,62f#n007,analyst,C4,Tell me a little about yourself.,,,10.96,True,8,1,66,86.72,14e5416b5484b0b645d652b21afd2f52de79e32e7094cf3fc407ec4fc8ea0a86
+1,62f,62f#n007,analyst,C5,Tell me a little about yourself.,,,10.96,True,8,1,66,88.33,bc40dba8f5a0f6173c2eac79d56602452a58210bf49c614d0d47b8732d01f386
+1,62f,62f#n007,analyst,C6,Tell me a little about yourself.,,,10.96,True,8,1,76,94.83,27fbc9e9771d570f4d38247546880a9a7e2b64553a34a99159fa75790dc5de1e
+1,62f,62f#n020,client,C1,How have your life experiences shaped who you are today?,SHAPED,partial,7.35,False,5,5,67,97.11,81e6962c71ff5ab47c874e4bb7744aa7a67df739b475825f4e7b76dc3ef11c8a
+1,62f,62f#n020,client,C2,How have your life experiences shaped who you are today?,SHAPED,partial,7.35,False,5,5,54,89.34,55fc7ad23961f42872163eb25d719db0c1aaf1347dd094aed46668b7933da984
+1,62f,62f#n020,client,C3,How have your life experiences shaped who you are today?,SHAPED,partial,7.35,False,5,5,76,95.77,c9bd9ae80726e5b09e35d982522def74a3811ad4cd90b402841e298ce907b80d
+1,62f,62f#n020,client,C4,How have your life experiences shaped who you are today?,SHAPED,partial,7.35,False,5,5,63,88.75,9e0a8aca5057bf30d864a68194fcc1c6738518aa68bd1e59ffe3b9e309221bbd
+1,62f,62f#n020,client,C5,How have your life experiences shaped who you are today?,SHAPED,partial,7.35,False,5,5,67,89.69,6d1acc2abcdd33d0d58956cacd2215451f257c7f59c25c4c26c45d12e7c8ecf9
+1,62f,62f#n020,client,C6,How have your life experiences shaped who you are today?,SHAPED,partial,7.35,False,5,5,77,95.95,3de17f3d8e5a661937118c498a1f32cd272b82ef2a0312e353a91557e0768152
+1,62m,62m#n056,analyst,C1,What does good communication mean to you? Can you give an example?,COMM,good,2.65,False,3,12,96,84.99,60813dafc878dde6eb0a24ac17e20801b9bb3dd038ac87b190c394fa43fd2eeb
+1,62m,62m#n056,analyst,C2,What does good communication mean to you? Can you give an example?,COMM,good,2.65,False,3,12,76,75.91,b7e76e17370ee938c39b946d38adacf024b1f1110babb310f0fe3bbd0a52e544
+1,62m,62m#n056,analyst,C3,What does good communication mean to you? Can you give an example?,COMM,good,2.65,False,3,12,105,85.16,9d19a1c9619879a64143f239e0e0a3e101e29cff2f71dc2f66d4ebcc772a8427
+1,62m,62m#n056,analyst,C4,What does good communication mean to you? Can you give an example?,COMM,good,2.65,False,3,12,85,77.03,de9506da679bc4a6b2230b2fb19074ce2228344c5de8bca602461d8788c6ec13
+1,62m,62m#n056,analyst,C5,What does good communication mean to you? Can you give an example?,COMM,good,2.65,False,3,12,97,83.4,d13b787b46b8c9ebe1e0e0fec5f690c0de423bf5eaa39180ba1b98b6d1bf167f
+1,62m,62m#n056,analyst,C6,What does good communication mean to you? Can you give an example?,COMM,good,2.65,False,3,12,106,85.42,53b5751e275e5688d3f90ca2e97ed5fa8058a0832229b31d919dc41ab61ce0ab
+1,62m,62m#n100,client,C1,Tell me a little about yourself.,,,0.77,True,1,8,112,86.71,93c3f22030f1cc4b5f54bbd2bbc256bf45a2fd8a88ca2dc01eeb9febfe90dae1
+1,62m,62m#n100,client,C2,Tell me a little about yourself.,,,0.77,True,1,8,94,83.47,b5e2c8a25acd96f277df441903e8d659df92ed30de5cc162ec0c9e3b53f81f5b
+1,62m,62m#n100,client,C3,Tell me a little about yourself.,,,0.77,True,1,8,121,86.59,a1d5e0acf87cf9e544d4a01db8b64d1f75ddebb9b8e52d97a1e0dc376d13c72a
+1,62m,62m#n100,client,C4,Tell me a little about yourself.,,,0.77,True,1,8,103,83.67,2d8455f7b232e0081601b11b68c1a632ff64274851a13521bf5bbfdd46416263
+1,62m,62m#n100,client,C5,Tell me a little about yourself.,,,0.77,True,1,8,112,86.71,2cc633467d8c8d8e1f9b3b3eb59ec857e3f1de67523fd4270fa97f171e35a548
+1,62m,62m#n100,client,C6,Tell me a little about yourself.,,,0.77,True,1,8,122,86.76,fc7658ab031e0156636bd04d13b42302a2727e461dc2244ccba1cd6af675906c
+1,64m,64m#00,analyst,C1,How have your life experiences shaped who you are today?,SHAPED,partial,2.02,False,2,11,91,81.45,d467231219f8a117c8f8d508bef849c2a218ec71dc8a07650668e6491dacadaf
+1,64m,64m#00,analyst,C2,How have your life experiences shaped who you are today?,SHAPED,partial,2.02,False,2,11,77,82.43,2a3ac5ac4f192fe358673dbe9c69188f905913b2f32267f04b4595f40c8ff2e3
+1,64m,64m#00,analyst,C3,How have your life experiences shaped who you are today?,SHAPED,partial,2.02,False,2,11,100,82.48,92cecca750d4a1891085557b8421e26a1503f5a2bed8b63a91ef88a41e58b508
+1,64m,64m#00,analyst,C4,How have your life experiences shaped who you are today?,SHAPED,partial,2.02,False,2,11,86,83.09,cefa359773d4e79162d8a0fefd7411a1221ed29695d090bfe98f85726b2c148d
+1,64m,64m#00,analyst,C5,How have your life experiences shaped who you are today?,SHAPED,partial,2.02,False,2,11,91,81.45,6132a7edf7206767ebdc4054f15d0b9cc388c7dbedc881316f3113fc8e5c71ba
+1,64m,64m#00,analyst,C6,How have your life experiences shaped who you are today?,SHAPED,partial,2.02,False,2,11,101,82.53,9f5b1098945eb397d7a0cdd2aa69470c795f9ea54d8f35e688abcd84445484e2
+1,64m,64m#n011,client,C1,Tell me a little about yourself.,,,3.09,True,5,8,144,81.38,bcf20c35a429764e4fe0e789786e53da8cc3b3b367763ed2e68006d978bb551d
+1,64m,64m#n011,client,C2,Tell me a little about yourself.,,,3.09,True,5,8,128,81.2,531b55cf3e8432b757472815be98f6a02b5c687660bcb0c4adcaf3ac36623a78
+1,64m,64m#n011,client,C3,Tell me a little about yourself.,,,3.09,True,5,8,153,82.36,ae2a9b3f3413e88a67c8ec7d9a34e0e8bddc2ad4de8b33925f41d76605f85a32
+1,64m,64m#n011,client,C4,Tell me a little about yourself.,,,3.09,True,5,8,137,82.0,3076811e304f107d69fc22cfa91fe5064396bebb45c17be3f5f7d64b230dac8c
+1,64m,64m#n011,client,C5,Tell me a little about yourself.,,,3.09,True,5,8,143,81.39,85fb8eaed8899afc10402c3879504d5354c1cfe59500caadbb966d8bb1067570
+1,64m,64m#n011,client,C6,Tell me a little about yourself.,,,3.09,True,5,8,154,82.37,740dea7989bea7967df82efc669f1c8acd2381abf8b4b23f2f4084b8271cb1ba
+1,64m,64m#n035,analyst,C1,Tell me a little about yourself.,,,2.27,True,2,6,76,86.0,8e2a90183f09c976a37735c2883b781bcbc81c8f79dc420d050753432a06b8b7
+1,64m,64m#n035,analyst,C2,Tell me a little about yourself.,,,2.27,True,2,6,67,84.38,16c7c0f6c800aacb1160b29f0c092840c69eeb7bf6686a6300755801c4380511
+1,64m,64m#n035,analyst,C3,Tell me a little about yourself.,,,2.27,True,2,6,85,86.02,56427c5587e0122a61f0f1e85a3d80facde4323fb8bd0b21b568334bee45e617
+1,64m,64m#n035,analyst,C4,Tell me a little about yourself.,,,2.27,True,2,6,76,84.5,55bdeee540d064be2c1c77b233a3281e22bd3f6d818ec3dcea50027cfe3f722d
+1,64m,64m#n035,analyst,C5,Tell me a little about yourself.,,,2.27,True,2,6,76,86.0,7036f5333047f4dc529ddf0ccd29b089e4c63697505459cd685d435ac037ffdc
+1,64m,64m#n035,analyst,C6,Tell me a little about yourself.,,,2.27,True,2,6,86,86.16,2bb1127664003d648631535e26a1410339d4c8a640157de6f66da26402ec58b2
+1,64m,64m#n082,client,C1,Tell me a little about yourself.,,,3.69,True,8,12,171,62.94,3cf39b311e8b14a10f7863fd9e4d67a342b7efba6707415768754917537e7a15
+1,64m,64m#n082,client,C2,Tell me a little about yourself.,,,3.69,True,8,12,144,61.08,d4ad06be07abeab90adda13b0d79da8dadecdca86252d4f8ee2f6a21cd852103
+1,64m,64m#n082,client,C3,Tell me a little about yourself.,,,3.69,True,8,12,180,64.81,6bbf382d93cf3f6a6564dc5921e1f81e8cc764007d26b0032c1aec747006deba
+1,64m,64m#n082,client,C4,Tell me a little about yourself.,,,3.69,True,8,12,153,62.96,586218fdb23443becf5f123e474e8cbac25ba25d99ba2c14cf49a3bc83bf0a6a
+1,64m,64m#n082,client,C5,Tell me a little about yourself.,,,3.69,True,8,12,169,64.25,268d0aa593168ecc4c42baa582b5295098ba1c7034298bfa88fb792e693b90ee
+1,64m,64m#n082,client,C6,Tell me a little about yourself.,,,3.69,True,8,12,181,64.9,9d44b02124bf82604258b45b87168e99d5ddea8ef341e2388a8ba16c5af8769c
+1,64m,64m#n091,analyst,C1,Tell me a little about yourself.,,,1.64,True,2,8,107,78.38,0094a1366090856ceb2bb04a2b45639253f8e501213a50f93552265564fcb89e
+1,64m,64m#n091,analyst,C2,Tell me a little about yourself.,,,1.64,True,2,8,94,77.95,7f7920dcbe73157fc5e751aae91e800d85f7f8bd9407ed546298477bafd19973
+1,64m,64m#n091,analyst,C3,Tell me a little about yourself.,,,1.64,True,2,8,116,80.0,a8b6c468726f2ff79a700568094aa172df6999a7b59e61b312b8b4df2be4cf99
+1,64m,64m#n091,analyst,C4,Tell me a little about yourself.,,,1.64,True,2,8,103,79.35,9c8584428cb54e9e805ee435a426a2238caed0b58baaae8001f0bddcaa41e4a7
+1,64m,64m#n091,analyst,C5,Tell me a little about yourself.,,,1.64,True,2,8,107,78.38,0a13f1ea0953a9a9ad922a079a563b0a2e5eb9bb5525de954a517f8149fb611d
+1,64m,64m#n091,analyst,C6,Tell me a little about yourself.,,,1.64,True,2,8,117,80.03,75dc4ea6ca05b649cc5a5bb84bad9c10aa66ae766cd6c1a24dcef9d5fb3e2400
+1,68m,68m#n037,client,C1,Tell me a little about yourself.,,,2.94,True,4,2,109,90.11,a5f7d3ce97d2f6d7eca65c6781b160db072ea942d323b9592fc65e51267c9d4b
+1,68m,68m#n037,client,C2,Tell me a little about yourself.,,,2.94,True,4,2,104,88.66,6eeb844f899729c76e9cedf6d6c5a77e31c4373d8614805470800962e8624cf6
+1,68m,68m#n037,client,C3,Tell me a little about yourself.,,,2.94,True,4,2,118,89.77,36358fbbfd24a7e2274ea249b7508884318a41d19b78b1a59c2dc03cc86c9b5f
+1,68m,68m#n037,client,C4,Tell me a little about yourself.,,,2.94,True,4,2,113,88.39,3d0f7909da44654bfd487f995cc1e1c2dbf66e32bd10e6de94aed8cb9bb2932c
+1,68m,68m#n037,client,C5,Tell me a little about yourself.,,,2.94,True,4,2,110,88.88,d4c9b852577e474d217acdeef795684d5adb9bf8537e917374c8f1fb931ecf5e
+1,68m,68m#n037,client,C6,Tell me a little about yourself.,,,2.94,True,4,2,119,89.93,66900d7e20811fa075db8a1b368bf6cdee1c527f18c9eceb4b972fb116983815
+1,68m,68m#n053,analyst,C1,Tell me a little about yourself.,,,3.51,True,4,1,90,77.87,8a356c21db3661b5f487482c115cfe652c724513015a356615ff7fc88261f73d
+1,68m,68m#n053,analyst,C2,Tell me a little about yourself.,,,3.51,True,4,1,83,76.6,216f68019dafa3a7736d1a2f9a61f45791f6ae63c0da8511fdbf4afe26aaa084
+1,68m,68m#n053,analyst,C3,Tell me a little about yourself.,,,3.51,True,4,1,99,78.83,bd215fbb9a089b158271bbc067da0f11a4cba5100ccfcf0875c84e946241678d
+1,68m,68m#n053,analyst,C4,Tell me a little about yourself.,,,3.51,True,4,1,92,77.63,09650df67c762883fa45e8c523a58c2df3ed4d1a8c53be6663fabb8f00bf03c8
+1,68m,68m#n053,analyst,C5,Tell me a little about yourself.,,,3.51,True,4,1,89,77.71,d1007e643d0aab235f17bf2e974d03f18e32bf1619a0024166604aed2b0a1778
+1,68m,68m#n053,analyst,C6,Tell me a little about yourself.,,,3.51,True,4,1,100,78.97,449c0677a8b72fac61cd733a99b31c7ab9d597b0fbf9e666aeb3936512f645ff
+1,68m,68m#n071,analyst,C1,Tell me a little about yourself.,,,1.56,True,1,0,49,84.66,a1a50013c7e3f457b0a36450904c7537ad3e93d230991655053f70734472b989
+1,68m,68m#n071,analyst,C2,Tell me a little about yourself.,,,1.56,True,1,0,49,86.39,f11fe329625fb909d5a78c0323054c88abc9f9be3595a20d927e21b9ba11d771
+1,68m,68m#n071,analyst,C3,Tell me a little about yourself.,,,1.56,True,1,0,58,84.71,0628845f49dee18af274167266705b0d1183d41b40600637646336eb8650a409
+1,68m,68m#n071,analyst,C4,Tell me a little about yourself.,,,1.56,True,1,0,58,86.17,855547b70ed223464a5071b56880f55d37a3ab74fd29f6d35fc96817575b0f21
+1,68m,68m#n071,analyst,C5,Tell me a little about yourself.,,,1.56,True,1,0,50,86.7,f645b83275fad0eef6bdefa2272b408aa67a366de6e37ba951595ce24ae07157
+1,68m,68m#n071,analyst,C6,Tell me a little about yourself.,,,1.56,True,1,0,59,85.01,f6dff96a0fae6f2bb1f1f69d074c8faba5fb03cb4b80834600952fca841b0ab8
+1,68m,68m#n081,client,C1,Tell me a little about yourself.,,,5.38,True,7,1,87,63.56,3b6fe3c7ec356f7c7501924cd5f8c1723185ce628fb38d3a92c6abc3e577e460
+1,68m,68m#n081,client,C2,Tell me a little about yourself.,,,5.38,True,7,1,78,55.94,d5a5162eb48b0fafd17b32495bc5d41b93a0e5033e679597bf81ec2970162575
+1,68m,68m#n081,client,C3,Tell me a little about yourself.,,,5.38,True,7,1,96,65.71,37db56636ebb58558736ec54c24373652cf35b5df6d0d41893a195faf7d50e35
+1,68m,68m#n081,client,C4,Tell me a little about yourself.,,,5.38,True,7,1,87,58.94,d0915678d9b8ee86837024e3d9e5fafdd107003c6fc61a7f01aa190fb3eaa682
+1,68m,68m#n081,client,C5,Tell me a little about yourself.,,,5.38,True,7,1,86,60.17,740fc775c9784e8c954910af41dabaa1cb7e3743784ad495a045cdbd29eae30a
+1,68m,68m#n081,client,C6,Tell me a little about yourself.,,,5.38,True,7,1,97,66.18,a19d7d7432592e16d0b13a94951b06454b7ce729308c46fa3d4a35921fa887b3

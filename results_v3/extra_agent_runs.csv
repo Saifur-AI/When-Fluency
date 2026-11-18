@@ -1,0 +1,7 @@
+experiment,form,runs,completed,reminder
+Exp 1,disclosure,176,0.9943,0.1761
+Exp 1,fluent,264,0.9962,0.053
+Exp 1,stuttered,264,0.9962,0.0871
+Exp 2,fluent,720,1.0,0.0264
+Exp 2,stuttered,720,0.9972,0.1944
+all,all,2144,0.9977,0.1059

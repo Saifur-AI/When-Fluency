@@ -1,0 +1,8 @@
+# Versions used for the paper (Python 3.13). Newer versions should work; these reproduce the tables exactly.
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+statsmodels==0.14.5
+matplotlib==3.10.6
+openai==2.20.0      # only for `run` / `judge` (LM Studio's OpenAI-compatible server)
+cmudict==1.1.3      # only for rebuilding stimuli (syllable counts)

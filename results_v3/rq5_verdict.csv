@@ -1,0 +1,8 @@
+arch,framing,framing_verdict
+A1,F1,SUCCESS
+A1,F2,SUCCESS
+A1,F3,SUCCESS
+A1,F4,SUCCESS
+A2,F1,penalty remains
+A2,F3,inconclusive
+A2,F4,inconclusive
