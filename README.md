@@ -191,21 +191,7 @@ the evidence-grounding check compare each output with the fluent transcript.
   files are not yet part of this repository.
 
 
-## Citation
 
-```bibtex
-@inproceedings{anonymous2027fluency,
-  title     = {When Fluency Becomes a Proxy for Competence: Disparate Impact in {LLM} Hiring},
-  author    = {Anonymous},
-  booktitle = {Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)},
-  year      = {2027},
-  note      = {Under review}
-}
-```
-
-If you use the stimuli, please also cite FluencyBank (Bernstein Ratner & MacWhinney, 2018) and the
-FluencyBank Timestamped release (Romana et al., 2024), and acknowledge NIH NIDCD R01-DC015494, as the
-TalkBank Ground Rules require.
 
 ## License
 
