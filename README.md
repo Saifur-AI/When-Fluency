@@ -190,10 +190,3 @@ the evidence-grounding check compare each output with the fluent transcript.
   stereotype labels on 140 outputs) and their agreement statistics are reported in the paper. Their label
   files are not yet part of this repository.
 
-
-
-
-## License
-
-Code: MIT. Experiment 2 answers, model outputs and derived tables: CC BY-NC-SA 4.0. The non-commercial,
-share-alike licence matches FluencyBank, since the Experiment 2 events are sampled from its codings.
